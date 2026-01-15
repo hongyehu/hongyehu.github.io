@@ -6,7 +6,7 @@ title: Hong-Ye Hu
 first_name: Hong-Ye
 middle_name:
 last_name: Hu
-contact_note: 
+contact_note:
 email: hongyehu@fas.harvard.edu
 
 description: >
@@ -19,7 +19,7 @@ lang: en
 icon: ⚛️
 
 url: https://hongyehu.github.io
-baseurl: ""  # IMPORTANT: Keep empty for hongyehu.github.io
+baseurl: ""
 last_updated: false
 impressum_path:
 back_to_top: true
@@ -31,9 +31,7 @@ back_to_top: true
 github_username: hongyehu
 google_scholar_id: Hqf3jOUAAAAJ
 linkedin_username: hong-ye-hu-phd-a99b518b
-twitter_username:  # Add if you have one
-# mastodon_username: 
-# orcid_id: 
+twitter_username:
 
 # -----------------------------------------------------------------------------
 # Theme
