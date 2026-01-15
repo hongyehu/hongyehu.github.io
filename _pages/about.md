@@ -6,7 +6,7 @@ subtitle: <a href='#'>Harvard Quantum Initiative Fellow</a>. Cambridge, MA.
 
 profile:
   align: right
-  image: prof_pic # Upload your photo to assets/img/
+  image: prof_pic.png # Upload your photo to assets/img/
   image_circular: false # Your current site uses a square/rect photo
 
 news: true  # Includes a list of recent news
