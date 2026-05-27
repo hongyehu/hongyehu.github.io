@@ -377,26 +377,17 @@ ul.task-list input[type="checkbox"] {
 
 .home-experience-header {
   align-items: baseline;
-  display: flex;
+  display: grid;
   gap: 1rem;
-  justify-content: space-between;
+  grid-template-columns: minmax(0, 1fr) max-content;
 
   strong {
-    flex: 1 1 auto;
+    min-width: 0;
   }
 
   span {
-    flex: 0 0 auto;
     margin-top: 0;
     white-space: nowrap;
-  }
-}
-
-@media (max-width: 575.98px) {
-  .home-experience-header {
-    align-items: flex-start;
-    flex-direction: column;
-    gap: 0.15rem;
   }
 }
 
