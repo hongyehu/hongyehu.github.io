@@ -365,7 +365,6 @@ ul.task-list input[type="checkbox"] {
     padding-right: 0.85rem;
   }
 
-  strong,
   span {
     display: block;
   }
@@ -373,6 +372,31 @@ ul.task-list input[type="checkbox"] {
   span {
     color: var(--global-text-color-light);
     margin-top: 0.15rem;
+  }
+}
+
+.home-experience-header {
+  align-items: baseline;
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+
+  strong {
+    flex: 1 1 auto;
+  }
+
+  span {
+    flex: 0 0 auto;
+    margin-top: 0;
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .home-experience-header {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.15rem;
   }
 }
 

@@ -38,28 +38,38 @@ social: true  # Includes email, phone, etc.
   <h2>工作与学习经历</h2>
   <ul class="home-bullet-list home-experience-list">
     <li>
-      <strong>哈佛量子计划 & 哈佛-MIT 冷原子中心</strong>
-      <span>2022 年 9 月 - 2026 年 5 月</span>
+      <div class="home-experience-header">
+        <strong>哈佛量子计划 & 哈佛-MIT 冷原子中心</strong>
+        <span>2022 年 9 月 - 2026 年 5 月</span>
+      </div>
       <span>HQI 独立研究员（合作导师：Prof. Susanne Yelin, Prof. Misha Lukin, Prof. Soonwon Choi）</span>
     </li>
     <li>
-      <strong>QuEra Computing Inc.</strong>
-      <span>2022 年 5 月 - 9 月</span>
+      <div class="home-experience-header">
+        <strong>QuEra Computing Inc.</strong>
+        <span>2022 年 5 月 - 9 月</span>
+      </div>
       <span>量子算法顾问</span>
     </li>
     <li>
-      <strong>美国宇航局量子智能研究组 NASA Quantum AI</strong>
-      <span>2022 年 3 月 - 5 月</span>
+      <div class="home-experience-header">
+        <strong>美国宇航局量子智能研究组 NASA Quantum AI</strong>
+        <span>2022 年 3 月 - 5 月</span>
+      </div>
       <span>Feynman Quantum Academy Intern</span>
     </li>
     <li>
-      <strong>加州大学圣地亚哥分校</strong>
-      <span>2016 - 2022</span>
+      <div class="home-experience-header">
+        <strong>加州大学圣地亚哥分校</strong>
+        <span>2016 - 2022</span>
+      </div>
       <span>导师：尤亦庄教授</span>
     </li>
     <li>
-      <strong>北京大学</strong>
-      <span>2012 - 2016</span>
+      <div class="home-experience-header">
+        <strong>北京大学</strong>
+        <span>2012 - 2016</span>
+      </div>
       <span>导师：吴飙教授</span>
     </li>
   </ul>
