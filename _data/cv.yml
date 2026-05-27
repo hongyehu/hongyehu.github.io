@@ -3,91 +3,227 @@
   contents:
     - name: 姓名
       value: Hong-Ye Hu (扈鸿业)
-    - name: 职位
-      value: Harvard Quantum Initiative Research Fellow
+    - name: 当前职位
+      value: Harvard Quantum Initiative 研究员 / HQI Fellow
+    - name: 邮箱
+      value: hongyehu.physics@gmail.com
+    - name: 主页
+      value: <a href="https://hongyehu.github.io/">hongyehu.github.io</a>
     - name: 研究方向
-      value: 量子信息、量子控制、机器学习、可编程量子系统
-    - name: 工作地点
-      value: Cambridge, MA
+      value: 量子计算理论、量子控制与学习理论、量子纠错、机器学习与量子信息
 
-- title: 教育经历
+- title: 研究兴趣
+  type: nested_list
+  contents:
+    - title: 量子控制与学习
+      items:
+        - 面向大规模模拟量子系统和容错数字量子系统，研究量子控制、量子学习与可编程量子系统的算法基础。
+        - 关注哈密顿量学习、设备基准测试、量子态学习、AI 辅助量子最优控制等问题。
+    - title: 量子模拟与量子纠错
+      items:
+        - 研究模拟与数字量子模拟、早期容错量子设备的新架构，以及量子纠错码自动设计和高效译码。
+        - 结合量子多体物理、AMO 物理、量子信息理论、量子最优控制和机器学习，推进量子技术能力并理解量子多体系统。
+
+- title: 教育与训练
   type: time_table
   contents:
-    - title: PhD
-      institution: University of California, San Diego, USA
-      year: 2016 - 2022
-    - title: BS
-      institution: Peking University, China
-      year: 2012 - 2016
-
-- title: 工作与研究经历
-  type: time_table
-  contents:
-    - title: Research Fellow
-      institution: Harvard Quantum Initiative & Harvard-MIT Center for Ultracold Atoms
-      year: 2022 - Present
+    - title: Harvard Quantum Initiative 博士后研究员
+      institution: Harvard University / Harvard-MIT Center for Ultracold Atoms (CUA)
+      year: 2022.09 - 2026.05
       description:
-        - 与中性原子、光晶格、超导量子比特等平台的实验团队合作，设计并实现量子信息处理协议。
-    - title: Quantum Algorithm Consultant
+        - 导师：Prof. Susanne F. Yelin (Harvard), Prof. Soonwon Choi (MIT)
+    - title: 物理学博士
+      institution: University of California, San Diego
+      year: 2016.09 - 2022.03
+      description:
+        - 导师：Prof. Yi-Zhuang You
+    - title: 物理学学士
+      institution: Peking University
+      year: 2012.09 - 2016.07
+
+- title: 工作经历
+  type: time_table
+  contents:
+    - title: 量子算法团队研究顾问
       institution: QuEra Computing Inc.
-      year: 2022
-    - title: Feynman Quantum Academy Intern
-      institution: NASA Quantum AI and USRA
-      year: 2021 - 2022
-    - title: Research Assistant
-      institution: Salk Institute for Biological Studies
-      year: 2016 - 2018
+      year: 2022.06 - 2022.09
+      description:
+        - 导师：Dr. Shengtao Wang
+    - title: USRA Feynman Research Fellowship
+      institution: NASA Quantum AI Lab
+      year: 2021.06 - 2021.10; 2022.03 - 2022.06
+      description:
+        - 导师：Dr. Zhihui Wang
+    - title: 研究实习生
+      institution: Salk Institute for Biological Studies, San Diego
+      year: 2016.09 - 2018.03
+      description:
+        - 导师：Prof. Tatyana Sharpee
+        - 方向：视觉与计算神经科学
+
+# - title: 科研经费
+#   type: list
+#   contents:
+#     - "Unitary Fund 项目 “PyClifford: a fast and flexible Python-based Clifford + few T gates simulator.” Awardee: Dr. Hong-Ye Hu."
+#     - "DARPA IMPAQT 项目 “Analog Quantum Machine Learning on Programmable Quantum Simulators.” Awardee: Prof. Susanne Yelin, Dr. Hong-Ye Hu."
+#     - "DARPA DSO 项目 “Analog Universal Computation: Hybrid Algorithms for Fermionic Systems.” Awardee: Prof. Susanne Yelin, Dr. Henning Schloemer, Dr. Hong-Ye Hu."
+
+- title: 研究亮点
+  type: time_table
+  contents:
+    - title: Ansatz-free Hamiltonian learning with Heisenberg-limited scaling
+      institution: PRX Quantum 6, 040315 (2025)
+      year: Quantum Learning
+      description:
+        - 提出无需先验相互作用结构假设的哈密顿量学习算法，仅使用黑盒实时演化查询和最少数字控制即可达到海森堡极限标度。
+        - Featured in an APS Physics Viewpoint, “Quantum systems modeled without prior assumptions”; selected as a long talk at AQIS 2025.
+    - title: Demonstration of robust and efficient quantum property learning with shallow shadows
+      institution: Nature Communications 16, 2943 (2025)
+      year: Quantum Learning
+      description:
+        - 研究浅层阴影协议中的噪声影响，提出由贝叶斯学习驱动的抗噪声浅层阴影方法，并在超导量子设备上展示抗噪声 classical shadows。
+        - Featured by Phys.org, Quantum China, Science Magazine, UC San Diego Today, Interesting Engineering Newsletter and Japanese Tech News.
+    - title: Efficiently measuring d-wave pairing and beyond in quantum gas microscopes
+      institution: Physical Review Letters 135, 123402 (2025)
+      year: Analog Quantum Simulation
+      description:
+        - 提出在费米量子气体显微镜中测量长程超导配对关联等广泛可观测量的协议，仅需全局控制和位点分辨粒子数测量。
+        - Featured on Physics World as a research highlight for understanding superconductivity.
+    - title: Universal Dynamics with Globally Controlled Analog Quantum Simulators
+      institution: arXiv:2508.19075 (2025), Nature Physics Under Review
+      year: Analog Quantum Simulation
+      description:
+        - 建立仅用全局控制场实现通用量子动力学的框架，引入 direct quantum optimal control，并在 Rydberg 原子阵列上工程化非原生相互作用和拓扑动力学。
+    - title: Large-scale quantum reservoir learning with an analog quantum computer
+      institution: arXiv:2407.02553 (2024), PRX Intelligence Under Review
+      year: Quantum Learning
+      description:
+        - 提出可扩展的无梯度量子 reservoir learning 算法，并在中性原子模拟量子计算机上展示最高 108 qubits 的大规模量子机器学习实验。
+        - Featured by Quantum Insider News and QuEra News.
+
+- title: 开源影响
+  type: list
+  contents:
+    - 开发 PyClifford 等量子信息科学与机器学习开源工具，用于 Clifford circuit simulation with a few T gates。
+    - 相关软件在 GitHub 获得 400+ stars，服务于科研与教学社区。
+
+- title: 专利
+  type: list
+  contents:
+    - Hongye Hu, Xun Gao, Fangli Liu, Shengtao Wang, Jonathan Wurtz, Milan Kornjaca, “Quantum reservoir computing with rydberg atom arrays”, US Patent 19107187.
+
+- title: Publications & Preprints
+  type: list
+  contents:
+    - P. Ivashkov, N. Romanov, W. Gong, A. Gu, H.-Y. Hu†, S. F. Yelin†. Ansatz-free learning of Lindbladian dynamics in situ. arXiv:2603.05492 (2026).
+    - Y. Shen, A. Buzali, H.-Y. Hu, K. Klymko, D. Camps, S. F. Yelin, R. Van Beeumen. Efficient measurement-driven eigenenergy estimation with classical shadows. PRX Quantum 7, 010328 (2026).
+    - H.-Y. Hu, M. Ma, W. Gong, Q. Ye, Y. Tong, S. T. Flammia, S. F. Yelin. Ansatz-free Hamiltonian learning with Heisenberg-limited scaling. PRX Quantum 6, 040315 (2025).
+    - D. Mark*, H.-Y. Hu*, J. Kwan, C. Kokail, S. Choi, S. F. Yelin. Efficiently measuring d-wave pairing and beyond in quantum gas microscopes. Physical Review Letters 135, 123402 (2025).
+    - H.-Y. Hu, AMC Gomez, L. Chen, A. Trowbridge, A. J. Goldschmidt, Z. Manchester, F. T. Chong, A. Jaffe, S. F. Yelin. Universal Dynamics with Globally Controlled Analog Quantum Simulators. arXiv:2508.19075 (2025), Nature Physics Under Review.
+    - H.-Y. Hu, A. Gu, S. Majumder, H. Ren, Y. Zhang, D. S. Wang, Y.-Z. You, Z. Minev, S. F. Yelin, A. Seif. Demonstration of robust and efficient quantum property learning with shallow shadows. Nature Communications 16, 2943 (2025).
+    - H. Zhou, C. Zhao, M. Cain, D. Bluvstein, N. Mashakara, C. Duckering, H.-Y. Hu, S.-T. Wang, A. Kubica, M. D. Lukin. Low-Overhead Transversal Fault Tolerance for Universal Quantum Computation. Nature 646, 303-308 (2025).
+    - B. Evert, G. Zoe Izquierdo, J. Sud, H.-Y. Hu, S. Grabbe, E. Rieffel, M. Reagor, Z. Wang. Syncopated dynamical decoupling for suppressing crosstalk in quantum circuits. Physical Review Applied 24, 044025 (2025).
+    - M. Kornjača*, H.-Y. Hu*, et al. Large-scale quantum reservoir learning with an analog quantum computer. arXiv:2407.02553 (2024), PRX Intelligence Under Review.
+    - V. P. Su†, C. Cao, H.-Y. Hu†, Y. Yanay, C. Tahan, B. Swingle. Discovery of optimal quantum error correcting codes via reinforcement learning. Physical Review Applied 23, 034048 (2025).
+    - R. A. Bravo, J. G. Ponce, H.-Y. Hu, S. F. Yelin. Circumventing traps in analog quantum machine learning algorithms through co-design. APL Quantum 1, 046121 (2024).
+    - J. Lu, L. Jiao, K. M. Wolinski, M. Kornjača, H.-Y. Hu, S. A. Cantu, F. Liu, S. F. Yelin, S.-T. Wang. Digital-analog quantum learning on Rydberg atom arrays. Quantum Sci. Technol. 10, 015038 (2024).
+    - Z. Liu†, Z. Hao†, H.-Y. Hu†. Predicting arbitrary state properties from single Hamiltonian quench dynamics. Phys. Rev. Research 6, 043118 (2024).
+    - A. Akhtar, H.-Y. Hu, Y.-Z. You. Measurement-induced criticality is tomographically optimal. Phys. Rev. B 109, 094209 (2024).
+    - A. Gu*, H.-Y. Hu*, D. Luo*, T. L. Patti, N. C. Rubin, S. F. Yelin. Zero and finite temperature quantum simulations powered by quantum magic. Quantum 8, 1422 (2023).
+    - H.-Y. Hu, S. Choi, Y.-Z. You. Classical shadow tomography with locally scrambled quantum dynamics. Phys. Rev. Research 5, 023027 (2023).
+    - A. Akhtar, H.-Y. Hu, Y.-Z. You. Scalable and flexible classical shadow tomography with tensor networks. Quantum 7, 1026 (2023).
+    - E. Anschuetz, H.-Y. Hu, J. Huang, X. Gao. Interpretable quantum advantage in neural sequence learning. PRX Quantum 4, 020338 (2023).
+    - H.-Y. Hu, Y.-Z. You. Hamiltonian-driven shadow tomography of quantum states. Phys. Rev. Research 4, 013054 (2022).
+    - "H.-Y. Hu, R. LaRose, Y.-Z. You, E. Rieffel, Z. Wang. Logical shadow tomography: Efficient estimation of error-mitigated observables. arXiv:2203.07263 (2022)."
+    - F. Wilczek, H.-Y. Hu, B. Wu. Resonant quantum search with monitor qubits. Chin. Phys. Lett. 37, 050304 (2020).
+    - H.-Y. Hu, B. Wu. Optimizing quantum adiabatic algorithm. Phys. Rev. A 93, 012345 (2016).
+    - W. Hou, L. Zhou, H.-Y. Hu, Y.-Z. You, X.-L. Qi. How Focused Are LLMs? A Quantitative Study via Repetitive Deterministic Prediction Tasks. arXiv:2511.00763 (2025).
+    - "C. Geng, H.-Y. Hu, Y. Zou. Differentiable programming of isometric tensor networks. Mach. Learn.: Sci. Technol. 3, 015020 (2022)."
+    - "H.-Y. Hu, D. Wu, Y.-Z. You, B. Olshausen, Y. Chen. RG-Flow: A hierarchical and explainable flow model based on renormalization group and sparse prior. Mach. Learn.: Sci. Technol. 3, 035009 (2022)."
+    - "K. Hashimoto*, H.-Y. Hu*, Y.-Z. You*. Neural ordinary differential equation and holographic quantum chromodynamics. Mach. Learn.: Sci. Technol. 2, 035011 (2021)."
+    - H.-Y. Hu, S.-H. Li, L. Wang, Y.-Z. You. Machine learning holographic mapping by neural network renormalization group. Phys. Rev. Research 2, 023369 (2020).
+    - M. Zeng, L. Hu, H.-Y. Hu, Y.-Z. You, C. Wu. High-order time-reversal symmetry breaking normal state. Sci. China Phys. Mech. Astron. 67, 237411 (2024).
+    - C. M. Duque*, H.-Y. Hu*, Y.-Z. You, V. Khemani, R. Verresen, R. Vasseur. Topological and symmetry-enriched random quantum critical points. Phys. Rev. B 103, L100207 (2021). [Editors’ Suggestion]
+    - X.-Y. Huang, T. Wang, S. Liu, H.-Y. Hu, Y.-Z. You. Quantum magnetism in Wannier-obstructed Mott insulators. arXiv:2005.01439 (2020).
+    - H.-Y. Hu. Efficient representation and learning of quantum many-body states. Ph.D. Thesis, University of California San Diego (2022).
+
+- title: Conferences & Talks
+  type: list
+  contents:
+    - (Oral Talk) QCTiP 2026, Oxford University, UK. Universal Dynamics with Globally Controlled Analog Quantum Simulators. (April 2026) Acceptance rate: 8%.
+    - (Invited Talk) UIUC Physics Colloquium. Scalable Quantum Applications: Synergies in Control, Learning, and Co-design. (March 2026)
+    - (Invited Talk) Vanderbilt Colloquium in Department of Physics and College of Connected Computing. Scalable Quantum Applications: Synergies in Control, Learning, and Co-design. (February 2026)
+    - (Invited Talk) International Workshop on Quantum Characterization, Verification, and Validation (IWQCVV). Learning and benchmarking on large-scale quantum devices. (September 2025)
+    - (Invited Talk) Quantum Computing Seminar at Université de Sherbrooke. Ansatz-Free Hamiltonian learning with Heisenberg limited scaling. (June 2025)
+    - (Oral Talk) AQIS 2025. Ansatz-Free Hamiltonian learning with Heisenberg limited scaling. Selected long-contributed talk. Acceptance rate: 4%.
+    - (Invited Talk) Tufts Quantum Computing Seminar. Ansatz-Free Hamiltonian learning with Heisenberg limited scaling. (April 2025)
+    - (Oral Talk) QCTiP 2025, Max Planck Institute, Berlin. Efficient Quantum Property Learning with Shallow Shadows. (April 2025)
+    - IBM Quantum Developer Conference, IBM Thomas J. Watson Research Center. (November 2024)
+    - (Invited Talk) 10th International Conference on Quantum Information and Quantum Control, the Fields Institute. Efficient Quantum Property Learning with Shallow Shadows. (September 2024)
+    - (Invited Talk) IBM Qiskit seminar. Robust and Efficient Quantum Property Learning with Shallow Shadows. (March 2024)
+    - (Invited Talk) IBM Qiskit seminar. Recent Progress on Classical Shadow Tomography. (May 2023)
+    - "(Invited Talk) Quantum Research Seminars Toronto. Logical shadow tomography: Efficient estimation of error-mitigated observables. (March 2022)"
+    - (Invited Talk) Yale Quantum Initiative Seminar. Predicting many properties of quantum systems with chaotic dynamics. (2022)
+    - Machine Learning Holography, Westlake University, Hangzhou, China. (2020)
+    - (Invited Talk) Deep Learning and Physics, Yukawa Institute, Kyoto, Japan. Machine Learning Holography. (October 2019)
+    - Quantum Connection. Nordita institute for theoretical physics, Sweden. (June 10-22, 2019)
+    - Machine Learning & Physics. Microsoft Research. (April 25-26, 2019)
 
 - title: 荣誉与奖励
   type: time_table
   contents:
-    - year: 2022 - Present
+    - year: 2022
       items:
-        - Harvard Quantum Initiative Fellow
+        - HQI Postdoctoral Fellowship, Harvard University
     - year: 2021
       items:
         - UC President Dissertation Year Fellowship nominee, UCSD Physics Department
     - year: 2018
       items:
-        - Chair's Challenge Award, UCSD Physics Department
+        - Chair’s Challenge Award, UCSD Physics Department
+    - year: 2016 - 2017
+      items:
+        - UCSD Physics Excellence Award
     - year: 2013 - 2016
       items:
         - 未名学者，北京大学
     - year: 2016
       items:
-        - 北京市普通高等学校优秀毕业生
+        - 北京市优秀毕业生
     - year: 2013
       items:
         - 中国大学生物理学术竞赛金牌，北京大学代表队
 
-- title: 学术兴趣
-  type: nested_list
-  contents:
-    - title: 量子模拟
-      items:
-        - 使用可编程量子平台进行多体量子系统的模拟与验证。
-    - title: 量子统计学习
-      items:
-        - 哈密顿量学习、设备表征、随机基准测试、量子态学习与层析。
-    - title: 量子最优控制
-      items:
-        - 面向实验约束的高保真量子门和脉冲序列设计。
-    - title: 机器学习与量子信息
-      items:
-        - 量子纠错码自动设计、高效译码和量子系统学习控制。
-    - title: 量子机器学习理论
-      items:
-        - 学习任务中的量子优势，以及纠缠、非局域性和上下文性的作用。
-
-- title: 学术服务
+- title: 专业活动
   type: list
   contents:
-    - Nature Communications
-    - npj Quantum Information
-    - Physical Review X Quantum
-    - Physical Review Letters
-    - Physical Review Research
-    - Quantum
-    - Machine Learning Science and Technology
-    - Quantum Science and Technology
-    - TQC, AQIS, QIP conferences
+    - "担任 Nature Communications, Science Advances, Physical Review Letters, PRX Quantum, npj Quantum Information, Physical Review Research, Physical Review B, Quantum, Machine Learning: Science and Technology, Quantum Science and Technology 等期刊审稿人。"
+    - 担任 TQC, QIP, QCTiP 等会议审稿人。
+
+- title: 学生指导
+  type: list
+  contents:
+    - "Christina S. Gong (Harvard College → Amazon AWS). Thesis: Neural network belief propagation and ordered statistics decoding for quantum error correction codes."
+    - "Dian Wu (Peking University Undergrad → EPFL). Project: Multi-scale renormalization group neural network."
+    - "Peter Luo (Harvard College → Duke University). Project: classical simulation of matchgates and applications to quantum machine learning."
+    - "Alex Buzali (Harvard Master → Amazon AWS Quantum). Project: multi-observable dynamical mode decomposition and efficient energy estimation."
+    - "Muzhou Ma (Tsinghua University Undergrad → Caltech). Project: Ansatz-free Hamiltonian learning."
+    - "Petr Ivashkov (ETH Zurich → MIT). Project: Noise-induced transition in Hamiltonian learning efficiency."
+    - "Nikita Romanov (Harvard QSE G2 PhD student). Project: Efficient quantum simulation of quantum spin liquid with dual species neutral atom arrays. NTT Fellowship recipient."
+    - "Andi Gu (Harvard QSE G3 PhD student). Project: Quantum magic and quantum chemistry."
+    - "Abigail McClain Gomez (Harvard Physics → IBM Quantum). Project: Efficient quantum simulation using analog quantum simulators with parallel operations."
+    - "Liyuan Chen (Harvard Applied Math G5 PhD student). Project: Expressivity of analog quantum simulators."
+
+- title: 教学与服务
+  type: list
+  contents:
+    - 曾任 UCSD Physics Graduate Council 学生代表，参与改进研究生资格考试结构。
+    - "Teaching Assistant: PHYS 1AL Mechanics Laboratory, PHYS 1B Electricity and Magnetism, PHYS 100C Electromagnetism III, PHYS 1BL Electricity & Magnetism Lab, PHYS 212B Quantum Mechanics II, PHYS 212A Quantum Mechanics I."
+
+- title: 推荐人
+  type: list
+  contents:
+    - "Prof. Susanne F. Yelin, Harvard University. 研究方向：Quantum Machine Learning, Quantum Simulation, Quantum Optics. Email: syelin@g.harvard.edu"
+    - "Prof. Soonwon Choi, MIT. 研究方向：Quantum Information, Quantum Algorithm, Quantum Learning Theory. Email: soonwon@mit.edu"
+    - "Prof. Yi-Zhuang You, University of California, San Diego. 研究方向：Condensed Matter Theory, Quantum Information, Machine Learning. Email: yzyou@physics.ucsd.edu"
+    - "Prof. Arthur M. Jaffe, Harvard University, Member of the National Academy of Sciences. 研究方向：Mathematical Physics, Applied Mathematics. Email: amandahall@fas.harvard.edu"
