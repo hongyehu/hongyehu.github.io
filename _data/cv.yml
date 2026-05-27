@@ -1,97 +1,93 @@
-- title: General Information
+- title: 基本信息
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: 姓名
+      value: Hong-Ye Hu (扈鸿业)
+    - name: 职位
+      value: Harvard Quantum Initiative Research Fellow
+    - name: 研究方向
+      value: 量子信息、量子控制、机器学习、可编程量子系统
+    - name: 工作地点
+      value: Cambridge, MA
 
-- title: Education
+- title: 教育经历
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      institution: University of California, San Diego, USA
+      year: 2016 - 2022
+    - title: BS
+      institution: Peking University, China
+      year: 2012 - 2016
 
-- title: Experience
+- title: 工作与研究经历
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Fellow
+      institution: Harvard Quantum Initiative & Harvard-MIT Center for Ultracold Atoms
+      year: 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - 与中性原子、光晶格、超导量子比特等平台的实验团队合作，设计并实现量子信息处理协议。
+    - title: Quantum Algorithm Consultant
+      institution: QuEra Computing Inc.
+      year: 2022
+    - title: Feynman Quantum Academy Intern
+      institution: NASA Quantum AI and USRA
+      year: 2021 - 2022
+    - title: Research Assistant
+      institution: Salk Institute for Biological Studies
+      year: 2016 - 2018
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: 荣誉与奖励
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2022 - Present
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Harvard Quantum Initiative Fellow
+    - year: 2021
       items:
-        - Max Planck Medal
+        - UC President Dissertation Year Fellowship nominee, UCSD Physics Department
+    - year: 2018
+      items:
+        - Chair's Challenge Award, UCSD Physics Department
+    - year: 2013 - 2016
+      items:
+        - 未名学者，北京大学
+    - year: 2016
+      items:
+        - 北京市普通高等学校优秀毕业生
+    - year: 2013
+      items:
+        - 中国大学生物理学术竞赛金牌，北京大学代表队
 
-- title: Academic Interests
+- title: 学术兴趣
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: 量子模拟
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - 使用可编程量子平台进行多体量子系统的模拟与验证。
+    - title: 量子统计学习
       items:
-        - Description 1.
-        - Description 2.
+        - 哈密顿量学习、设备表征、随机基准测试、量子态学习与层析。
+    - title: 量子最优控制
+      items:
+        - 面向实验约束的高保真量子门和脉冲序列设计。
+    - title: 机器学习与量子信息
+      items:
+        - 量子纠错码自动设计、高效译码和量子系统学习控制。
+    - title: 量子机器学习理论
+      items:
+        - 学习任务中的量子优势，以及纠缠、非局域性和上下文性的作用。
 
-- title: Other Interests
+- title: 学术服务
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Nature Communications
+    - npj Quantum Information
+    - Physical Review X Quantum
+    - Physical Review Letters
+    - Physical Review Research
+    - Quantum
+    - Machine Learning Science and Technology
+    - Quantum Science and Technology
+    - TQC, AQIS, QIP conferences

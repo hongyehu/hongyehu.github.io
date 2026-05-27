@@ -1,20 +1,25 @@
 ---
 layout: page
-title: Research
+title: 研究
 permalink: /research/
-description: Research topics and highlights
+description: 研究方向与代表性工作
 nav: true
 nav_order: 2
 ---
 
-### Research Topics
+### 研究方向
 
-* **Quantum Simulation:** Analog and digital simulation of many-body quantum systems using programmable quantum platforms such as neutral atom arrays, optical lattices, and superconducting circuits.
-* **Quantum Statistical Learning:** Scalable methods for Hamiltonian learning, device characterization, randomized benchmarking, and quantum state tomography.
-* **Quantum Optimal Control:** Design and implementation of optimal pulse sequences for high-fidelity gate operations.
+* **量子模拟：** 基于中性原子阵列、光晶格和超导电路等可编程平台，研究多体量子系统的模拟、表征与控制。
+* **量子统计学习：** 发展哈密顿量学习、量子设备表征、随机基准测试和量子态层析的可扩展方法。
+* **量子最优控制：** 在真实实验约束下设计高保真量子门和最优脉冲序列。
+* **量子信息机器学习：** 利用机器学习进行量子系统学习与控制，包括量子纠错码自动设计和高效译码算法。
+* **原子阵列中的高效量子信息处理：** 发挥里德堡原子阵列的灵活性和可编程性，探索可扩展且表达能力强的量子计算协议。
+* **抗噪声量子协议：** 在现实噪声条件下发展准确、样本高效的误差缓解、态估计和过程估计方法。
+* **量子信息理论基础与应用：** 理解量子纠缠、计算复杂性以及近期量子设备的信息论极限。
+* **量子机器学习理论：** 研究学习任务中的量子优势，特别是与纠缠、非局域性和上下文性相关的无条件量子优势。
 
-### Highlights
+### 代表性工作
 
 **Quantum State Learning and Shallow Shadow Tomography**
 *H.-Y. Hu, A. Gu, S. Majumder, et al.*
-We investigate the impact of noise in shallow shadow protocols and introduce a noise-robust shallow shadow approach powered by Bayesian learning.
+我们研究浅层阴影协议中的噪声影响，并提出一种结合贝叶斯学习的抗噪声浅层阴影方法，用于高效量子性质学习。

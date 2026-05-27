@@ -1,6 +1,6 @@
 ---
 layout: book-shelf
-title: bookshelf
+title: 书架
 permalink: /books/
 nav: false
 collection: books
@@ -10,4 +10,4 @@ collection: books
 >
 > -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
 
-## Books that I am reading, have read, or will read
+## 我正在读、已经读过或计划阅读的书

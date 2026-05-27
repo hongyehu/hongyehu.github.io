@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
-nav: true
+title: 随笔
+nav: false
 nav_order: 1
 pagination:
   enabled: true
