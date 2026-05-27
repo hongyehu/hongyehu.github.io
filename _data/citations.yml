@@ -1,6 +1,38 @@
 metadata:
   last_updated: '2026-05-25'
 papers:
+  Hqf3jOUAAAAJ:mB3voiENLucC:
+    citations: 74
+    title: Demonstration of Robust and Efficient Quantum Property Learning with Shallow Shadows
+    year: '2025'
+  Hqf3jOUAAAAJ:vV6vV6tmYwMC:
+    citations: 34
+    title: Ansatz-Free Hamiltonian Learning with Heisenberg-Limited Scaling
+    year: '2025'
+  Hqf3jOUAAAAJ:BqipwSGYUEgC:
+    citations: 20
+    title: Efficiently Measuring d-Wave Pairing and Beyond in Quantum Gas Microscopes
+    year: '2025'
+  Hqf3jOUAAAAJ:R3hNpaxXUhUC:
+    citations: 125
+    title: Low-Overhead Transversal Fault Tolerance for Universal Quantum Computation
+    year: '2025'
+  Hqf3jOUAAAAJ:4DMP91E08xMC:
+    citations: 32
+    title: Discovery of Optimal Quantum Error Correcting Codes via Reinforcement Learning
+    year: '2025'
+  Hqf3jOUAAAAJ:SeFeTyx0c_EC:
+    citations: 4
+    title: Universal Dynamics with Globally Controlled Analog Quantum Simulators
+    year: '2025'
+  Hqf3jOUAAAAJ:a0OBvERweLwC:
+    citations: 0
+    title: Model-agnostic cooling algorithms for strongly interacting fermions
+    year: '2026'
+  Hqf3jOUAAAAJ:e5wmG9Sq2KIC:
+    citations: 77
+    title: Large-scale quantum reservoir learning with an analog quantum computer
+    year: '2024'
   qc6CJjYAAAAJ:-1WLWRmjvKAC:
     citations: 4
     title: THE DULONG-PETIT LAW OF SPECIFIC HEATS
