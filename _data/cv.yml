@@ -51,7 +51,7 @@
         - 导师：Dr. Shengtao Wang
     - title: USRA Feynman Research Fellowship
       institution: NASA Quantum AI Lab
-      year: 2021.06 - 2021.10; 2022.03 - 2022.06
+      year: 2021.06 - 2021.10<br>2022.03 - 2022.06
       description:
         - 导师：Dr. Zhihui Wang
     - title: 研究实习生
@@ -85,13 +85,13 @@
         - Featured by Phys.org, Quantum China, Science Magazine, UC San Diego Today, Interesting Engineering Newsletter and Japanese Tech News.
     - title: Efficiently measuring d-wave pairing and beyond in quantum gas microscopes
       institution: Physical Review Letters 135, 123402 (2025)
-      year: Analog Quantum Simulation
+      year: Analog Quantum<br>Simulation
       description:
         - 提出在费米量子气体显微镜中测量长程超导配对关联等广泛可观测量的协议，仅需全局控制和位点分辨粒子数测量。
         - Featured on Physics World as a research highlight for understanding superconductivity.
     - title: Universal Dynamics with Globally Controlled Analog Quantum Simulators
       institution: arXiv:2508.19075 (2025), Nature Physics Under Review
-      year: Analog Quantum Simulation
+      year: Analog Quantum<br>Simulation
       description:
         - 建立仅用全局控制场实现通用量子动力学的框架，引入 direct quantum optimal control，并在 Rydberg 原子阵列上工程化非原生相互作用和拓扑动力学。
     - title: Large-scale quantum reservoir learning with an analog quantum computer
