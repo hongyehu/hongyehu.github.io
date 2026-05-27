@@ -31,20 +31,19 @@ social: true  # Includes email, phone, etc.
   <h2>工作经历</h2>
   <ul class="home-bullet-list home-experience-list">
     <li>
-      <strong>Harvard Quantum Initiative & Harvard-MIT Center for Ultracold Atoms</strong>
-      <span>Research Fellow · 2022 至今</span>
+      <strong>哈佛量子计划 & 哈佛-MIT 冷原子中心</strong>
+      <span>2022 年 9 月 - 2026 年 5 月</span>
+      <span>HQI 独立研究员（合作导师：Prof. Susanne Yelin, Prof. Misha Lukin, Prof. Soonwon Choi）</span>
     </li>
     <li>
       <strong>QuEra Computing Inc.</strong>
-      <span>Quantum Algorithm Consultant · 2022</span>
+      <span>2022 年 5 月 - 9 月</span>
+      <span>量子算法顾问</span>
     </li>
     <li>
-      <strong>NASA Quantum AI and USRA</strong>
+      <strong>美国宇航局量子智能研究组 NASA Quantum AI</strong>
+      <span>2021 - 2022</span>
       <span>Feynman Quantum Academy Intern · 2021 - 2022</span>
-    </li>
-    <li>
-      <strong>Salk Institute for Biological Studies</strong>
-      <span>Research Assistant · 2016 - 2018</span>
     </li>
   </ul>
 </section>
