@@ -300,11 +300,9 @@ ul.task-list input[type="checkbox"] {
   padding-left: 0;
 
   li {
-    background-color: color-mix(in srgb, var(--global-theme-color) 5%, transparent);
-    border-radius: 0.75rem;
     counter-increment: home-list;
     margin-bottom: 0.65rem;
-    padding: 0.7rem 0.85rem 0.7rem 2.65rem;
+    padding: 0.25rem 0 0.25rem 2.35rem;
     position: relative;
   }
 
@@ -319,9 +317,9 @@ ul.task-list input[type="checkbox"] {
     font-weight: 700;
     height: 1.45rem;
     justify-content: center;
-    left: 0.75rem;
+    left: 0;
     position: absolute;
-    top: 0.68rem;
+    top: 0.2rem;
     width: 1.45rem;
   }
 

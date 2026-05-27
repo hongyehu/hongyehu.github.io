@@ -16,8 +16,8 @@ social: true  # Includes email, phone, etc.
 
 <section class="home-section home-section-feature">
   <h2>个人简介</h2>
-  <p>我将于暑期成为 <strong>特聘研究员 (Associate Professor)</strong>。计划每年招收 <strong>博士生 1-2 人，长期招收博士后、访问学生与研究员</strong>。</p>
-  <p>此前我在 <span class="home-theme-text">哈佛量子计划任研究员、HQI Fellow</span>。研究方向包括 <strong>量子计算理论、量子控制与学习理论、量子纠错</strong>。我与多个量子实验平台的实验团队密切合作，包括中性原子镊阵列、光晶格和超导量子比特，以第一作者身份设计了多种新型量子信息处理方案，并被多种量子实验平台采用，包括：</p>
+  <p>我将于暑期成为 <span class="home-theme-text">特聘研究员 (Associate Professor)</span>。<strong>计划每年招收 博士生 1-2 人，长期招收博士后、访问学生与研究员</strong>。</p>
+  <p>此前我在 <strong>哈佛量子计划任研究员、HQI Fellow</strong>。研究方向包括 <span class="home-theme-text">量子计算理论、量子控制与学习理论、量子纠错</span>。我与多个量子实验平台的实验团队密切合作，包括中性原子镊阵列、光晶格和超导量子比特，以第一作者身份设计了多种新型量子信息处理方案，并被多种量子实验平台采用，包括：</p>
   <ol class="home-numbered-list">
     <li><span class="home-theme-text">浅层量子随机测量技术</span>：被 IBM 实验采用，参加 <a href="https://phys.org/news/2025-04-shallow-shadows-uncover-quantum-properties.html" target="_blank" rel="noopener noreferrer">Phys.org 新闻报道</a>。</li>
     <li><span class="home-theme-text">全局控制通用量子模拟</span>：在 QuEra 光镊平台实验展示，参见 <a href="https://www.linkedin.com/posts/quera-computing-inc_universal-dynamics-with-globally-controlled-activity-7389980019693056000-IMbJ/" target="_blank" rel="noopener noreferrer">QuEra 报道</a>。</li>
