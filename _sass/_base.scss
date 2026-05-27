@@ -288,6 +288,48 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.home-theme-text {
+  color: var(--global-theme-color);
+  font-weight: 600;
+}
+
+.home-numbered-list {
+  counter-reset: home-list;
+  list-style: none;
+  margin: 0.8rem 0 1rem;
+  padding-left: 0;
+
+  li {
+    background-color: color-mix(in srgb, var(--global-theme-color) 5%, transparent);
+    border-radius: 0.75rem;
+    counter-increment: home-list;
+    margin-bottom: 0.65rem;
+    padding: 0.7rem 0.85rem 0.7rem 2.65rem;
+    position: relative;
+  }
+
+  li::before {
+    align-items: center;
+    background-color: var(--global-theme-color);
+    border-radius: 50%;
+    color: var(--global-hover-text-color);
+    content: counter(home-list);
+    display: flex;
+    font-size: 0.82rem;
+    font-weight: 700;
+    height: 1.45rem;
+    justify-content: center;
+    left: 0.75rem;
+    position: absolute;
+    top: 0.68rem;
+    width: 1.45rem;
+  }
+
+  li:last-child {
+    margin-bottom: 0;
+  }
+}
+
 .home-bullet-list {
   list-style: none;
   margin-bottom: 0;

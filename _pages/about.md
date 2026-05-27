@@ -16,7 +16,14 @@ social: true  # Includes email, phone, etc.
 
 <section class="home-section home-section-feature">
   <h2>个人简介</h2>
-  <p>我将于暑期成为 <strong>特聘研究员 (Associate Professor)</strong>。此前我在哈佛量子科学技术计划任研究员、HQI Fellow。研究方向包括量子计算理论、量子控制与学习理论、量子纠错。我与多个量子实验平台的实验团队密切合作，包括中性原子镊阵列、光晶格和超导量子比特，以第一作者身份设计了多种新型量子信息处理方案，并被多种量子实验平台采用：包括浅层量子随机测量技术（被 IBM 实验采用，参加 <a href="https://phys.org/news/2025-04-shallow-shadows-uncover-quantum-properties.html" target="_blank" rel="noopener noreferrer">Phys.org 新闻报道</a>）、全局控制通用量子模拟（在 QuEra 光镊平台实验展示，参见 <a href="https://www.linkedin.com/posts/quera-computing-inc_universal-dynamics-with-globally-controlled-activity-7389980019693056000-IMbJ/" target="_blank" rel="noopener noreferrer">QuEra 报道</a>）、全局控制光晶格费米子量子门与 d 波超导探测（参见 <a href="https://physicsworld.com/a/new-protocol-makes-an-elusive-superconducting-signature-measurable/" target="_blank" rel="noopener noreferrer">Physics World 报道</a>）。此外，我也参与设计了新型算法级量子纠错方案（参见 <a href="https://finance.yahoo.com/news/quera-collaborators-unveil-breakthrough-algorithmic-150000515.html" target="_blank" rel="noopener noreferrer">Yahoo Finance 报道</a>）和早期量子纠错、半纠错的应用。</p>
+  <p>我将于暑期成为 <strong>特聘研究员 (Associate Professor)</strong>。计划每年招收 <strong>博士生 1-2 人，长期招收博士后、访问学生与研究员</strong>。</p>
+  <p>此前我在 <span class="home-theme-text">哈佛量子计划任研究员、HQI Fellow</span>。研究方向包括 <strong>量子计算理论、量子控制与学习理论、量子纠错</strong>。我与多个量子实验平台的实验团队密切合作，包括中性原子镊阵列、光晶格和超导量子比特，以第一作者身份设计了多种新型量子信息处理方案，并被多种量子实验平台采用，包括：</p>
+  <ol class="home-numbered-list">
+    <li><span class="home-theme-text">浅层量子随机测量技术</span>：被 IBM 实验采用，参加 <a href="https://phys.org/news/2025-04-shallow-shadows-uncover-quantum-properties.html" target="_blank" rel="noopener noreferrer">Phys.org 新闻报道</a>。</li>
+    <li><span class="home-theme-text">全局控制通用量子模拟</span>：在 QuEra 光镊平台实验展示，参见 <a href="https://www.linkedin.com/posts/quera-computing-inc_universal-dynamics-with-globally-controlled-activity-7389980019693056000-IMbJ/" target="_blank" rel="noopener noreferrer">QuEra 报道</a>。</li>
+    <li><span class="home-theme-text">全局控制光晶格费米子量子门</span>与 d 波超导探测：参见 <a href="https://physicsworld.com/a/new-protocol-makes-an-elusive-superconducting-signature-measurable/" target="_blank" rel="noopener noreferrer">Physics World 报道</a>。</li>
+  </ol>
+  <p>此外，我也参与设计了 <span class="home-theme-text">新型算法级量子纠错方案</span>（参见 <a href="https://finance.yahoo.com/news/quera-collaborators-unveil-breakthrough-algorithmic-150000515.html" target="_blank" rel="noopener noreferrer">Yahoo Finance 报道</a>）、<span class="home-theme-text">早期量子纠错、半纠错的应用</span>，以及提出 <span class="home-theme-text">量子语言模型量子优势</span> 并在真实西班牙语-英语翻译中展示（参见 <a href="https://www.forbes.com/councils/forbestechcouncil/2025/05/29/beyond-the-buzzwords-what-happens-when-ai-meets-quantum/" target="_blank" rel="noopener noreferrer">Forbes 新闻报道</a>）。</p>
   <p>我的研究组关注可编程量子系统在近期量子技术和容错量子计算中的应用，尤其是如何结合量子信息与多体理论、量子最优控制与机器学习，提升量子技术能力并加深我们对量子多体系统的理解与应用。</p>
   <div class="home-pill-grid">
     <span>量子统计学习理论</span>
@@ -42,8 +49,8 @@ social: true  # Includes email, phone, etc.
     </li>
     <li>
       <strong>美国宇航局量子智能研究组 NASA Quantum AI</strong>
-      <span>2021 - 2022</span>
-      <span>Feynman Quantum Academy Intern · 2021 - 2022</span>
+      <span>2022 年 3 月 - 5 月</span>
+      <span>Feynman Quantum Academy Intern</span>
     </li>
   </ul>
 </section>
