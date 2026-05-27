@@ -2,7 +2,7 @@
 layout: about
 title: 主页
 permalink: /
-subtitle: 哈佛量子计划研究员 · 量子信息 / 量子控制 / 机器学习
+subtitle: 特聘研究员 · 量子计算 / 量子学习与控制 / 机器学习
 
 profile:
   align: right
@@ -35,7 +35,7 @@ social: true  # Includes email, phone, etc.
 </section>
 
 <section class="home-section">
-  <h2>工作经历</h2>
+  <h2>工作与学习经历</h2>
   <ul class="home-bullet-list home-experience-list">
     <li>
       <strong>哈佛量子计划 & 哈佛-MIT 冷原子中心</strong>
@@ -52,15 +52,29 @@ social: true  # Includes email, phone, etc.
       <span>2022 年 3 月 - 5 月</span>
       <span>Feynman Quantum Academy Intern</span>
     </li>
+    <li>
+      <strong>加州大学圣地亚哥分校</strong>
+      <span>2016 - 2022</span>
+      <span>导师：尤亦庄教授</span>
+    </li>
+    <li>
+      <strong>北京大学</strong>
+      <span>2012 - 2016</span>
+      <span>导师：吴飙教授</span>
+    </li>
   </ul>
 </section>
 
 <section class="home-section home-section-accent">
   <h2>荣誉与服务</h2>
   <ul class="home-bullet-list">
-    <li>Harvard Quantum Initiative Fellow</li>
+    <li>Top 20 US University Tenure-Track Assistant Professor (Declined)</li>
+    <li>Harvard Quantum Initiative Fellowship 2022</li>
+    <li>Caltech IQIM Fellowship 2022 (Declined)</li>
     <li>UCSD Physics Chair's Challenge Award</li>
-    <li>北京大学未名学者、北京市优秀毕业生、中国大学生物理学术竞赛金牌</li>
+    <li>北京大学未名学者</li>
+    <li>北京市优秀毕业生、北京大学优秀毕业生</li>
+    <li>中国大学生物理学术竞赛金牌</li>
     <li>长期担任 <em>Nature Communications</em>、<em>npj Quantum Information</em>、<em>Physical Review X Quantum</em>、<em>Physical Review Letters</em>、<em>Quantum</em>、QIP、TQC、AQIS 等期刊和会议的审稿人</li>
   </ul>
 </section>
