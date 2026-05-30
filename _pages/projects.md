@@ -16,63 +16,84 @@ hide_title: true
 
 <div class="research-grid">
   <article class="research-card">
-    <div class="research-image-placeholder">图片待添加</div>
-    <div class="research-card-body">
+    <div class="research-card-head">
+      <span>01</span>
       <h3>量子模拟</h3>
+    </div>
+    <div class="research-card-body">
+      <div class="research-image-placeholder">Image / Schematic</div>
       <p>基于中性原子阵列、光晶格和超导电路等可编程平台，研究多体量子系统的模拟、表征与控制。</p>
       <a class="research-link" href="{{ '/publications/' | relative_url }}">代表作论文</a>
     </div>
   </article>
 
   <article class="research-card">
-    <div class="research-image-placeholder">图片待添加</div>
-    <div class="research-card-body">
+    <div class="research-card-head">
+      <span>02</span>
       <h3>量子统计学习</h3>
+    </div>
+    <div class="research-card-body">
+      <div class="research-image-placeholder">Image / Schematic</div>
       <p>发展哈密顿量学习、量子设备表征、随机基准测试和量子态层析的可扩展方法。</p>
       <a class="research-link" href="{{ '/publications/' | relative_url }}">代表作论文</a>
     </div>
   </article>
 
   <article class="research-card">
-    <div class="research-image-placeholder">图片待添加</div>
-    <div class="research-card-body">
+    <div class="research-card-head">
+      <span>03</span>
       <h3>量子纠错理论</h3>
+    </div>
+    <div class="research-card-body">
+      <div class="research-image-placeholder">Image / Schematic</div>
       <p>发展量子纠错、量子学习校准、量子解码的联合理论，扩展利用人工智能的量子纠错方案。</p>
       <a class="research-link" href="{{ '/publications/' | relative_url }}">代表作论文</a>
     </div>
   </article>
 
   <article class="research-card">
-    <div class="research-image-placeholder">图片待添加</div>
-    <div class="research-card-body">
+    <div class="research-card-head">
+      <span>04</span>
       <h3>原子阵列中的高效量子信息处理</h3>
+    </div>
+    <div class="research-card-body">
+      <div class="research-image-placeholder">Image / Schematic</div>
       <p>发挥里德堡原子阵列的灵活性和可编程性，探索可扩展且表达能力强的量子计算协议。</p>
       <a class="research-link" href="{{ '/publications/' | relative_url }}">代表作论文</a>
     </div>
   </article>
 
   <article class="research-card">
-    <div class="research-image-placeholder">图片待添加</div>
-    <div class="research-card-body">
+    <div class="research-card-head">
+      <span>05</span>
       <h3>量子最优控制</h3>
+    </div>
+    <div class="research-card-body">
+      <div class="research-image-placeholder">Image / Schematic</div>
       <p>在真实实验约束下设计高保真量子门和最优脉冲序列。</p>
       <a class="research-link" href="{{ '/publications/' | relative_url }}">代表作论文</a>
     </div>
   </article>
 
   <article class="research-card">
-    <div class="research-image-placeholder">图片待添加</div>
-    <div class="research-card-body">
+    <div class="research-card-head">
+      <span>06</span>
       <h3>量子信息理论基础与应用</h3>
+    </div>
+    <div class="research-card-body">
+      <div class="research-image-placeholder">Image / Schematic</div>
       <p>理解量子纠缠、计算复杂性以及近期量子设备的信息论极限。</p>
       <a class="research-link" href="{{ '/publications/' | relative_url }}">代表作论文</a>
     </div>
   </article>
 
   <article class="research-card">
-    <div class="research-image-placeholder">图片待添加</div>
-    <div class="research-card-body">
+    <div class="research-card-head">
+      <span>07</span>
       <h3>量子机器学习理论</h3>
+    </div>
+    <div class="research-card-body">
+      <div class="research-image-placeholder">Image / Schematic</div>
       <p>研究学习任务中的量子优势，特别是与纠缠、非局域性和上下文性相关的无条件量子优势。</p>
       <a class="research-link" href="{{ '/publications/' | relative_url }}">代表作论文</a>
     </div>
