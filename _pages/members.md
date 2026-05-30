@@ -5,6 +5,7 @@ permalink: /members/
 description: 课题组成员与研究兴趣
 nav: true
 nav_order: 4
+hide_title: true
 ---
 
 <div class="members-hero">
@@ -18,11 +19,11 @@ nav_order: 4
 <div class="members-grid members-grid-two">
   <article class="member-card member-card-featured">
     <div class="member-photo-wrap">
-      <img src="{{ '/assets/img/prof_pic.png' | relative_url }}" alt="Hong-Ye Hu (扈鸿业)" class="member-photo">
+      <img src="{{ '/assets/img/prof_pic.png' | relative_url }}" alt="扈鸿业" class="member-photo">
     </div>
     <div class="member-info">
       <div class="member-role">Principal Investigator</div>
-      <h3>Hong-Ye Hu <span>扈鸿业</span></h3>
+      <h3>扈鸿业</h3>
       <div class="member-meta">
         <span>特聘研究员</span>
         <span>课题组负责人</span>
