@@ -2,6 +2,8 @@
 layout: about
 title: 主页
 permalink: /
+nav: true
+nav_order: 1
 subtitle: 中科院物理所 · 特聘研究员 · 量子计算 / 量子学习与控制 / 机器学习
 
 profile:

@@ -4,7 +4,7 @@ title: 课题组成员
 permalink: /members/
 description: 课题组成员与研究兴趣
 nav: true
-nav_order: 4
+nav_order: 3
 hide_title: true
 ---
 
