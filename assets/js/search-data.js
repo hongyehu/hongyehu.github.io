@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-课题组成员",
+          title: "课题组成员",
+          description: "课题组成员与研究兴趣",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/members/";
+          },
         },{id: "nav-简历",
           title: "简历",
           description: "学术经历、荣誉与服务。",
