@@ -15,7 +15,7 @@ nav_order: 4
   </div>
 </div>
 
-<div class="members-grid">
+<div class="members-grid members-grid-two">
   <article class="member-card member-card-featured">
     <div class="member-photo-wrap">
       <img src="{{ '/assets/img/prof_pic.png' | relative_url }}" alt="Hong-Ye Hu (扈鸿业)" class="member-photo">
@@ -28,7 +28,7 @@ nav_order: 4
         <span>课题组负责人</span>
       </div>
       <div class="member-section">
-        <h4>其他兴趣</h4>
+        <h4>业余兴趣</h4>
         <div class="member-tags">
           <span>骑行</span>
           <span>锻炼</span>
@@ -56,7 +56,7 @@ nav_order: 4
       </div>
     </div>
     <div class="member-section">
-      <h4>其他兴趣</h4>
+      <h4>业余兴趣</h4>
       <div class="member-tags">
         <span>音乐</span>
         <span>登山</span>
