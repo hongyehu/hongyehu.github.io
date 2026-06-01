@@ -18,11 +18,11 @@ hide_title: true
   <article class="research-card">
     <div class="research-card-head">
       <span>01</span>
-      <h3>量子模拟</h3>
+      <h3>量子纠错理论</h3>
     </div>
     <div class="research-card-body">
       <div class="research-image-placeholder">Image / Schematic</div>
-      <p>基于中性原子阵列、光晶格和超导电路等可编程平台，研究多体量子系统的模拟、表征与控制。</p>
+      <p>发展量子纠错、量子学习校准、量子解码的联合理论，扩展利用人工智能的量子纠错方案。</p>
       <a class="research-link" href="{{ '/publications/' | relative_url }}">代表作论文</a>
     </div>
   </article>
@@ -42,11 +42,11 @@ hide_title: true
   <article class="research-card">
     <div class="research-card-head">
       <span>03</span>
-      <h3>量子纠错理论</h3>
+      <h3>量子模拟</h3>
     </div>
     <div class="research-card-body">
       <div class="research-image-placeholder">Image / Schematic</div>
-      <p>发展量子纠错、量子学习校准、量子解码的联合理论，扩展利用人工智能的量子纠错方案。</p>
+      <p>基于中性原子阵列、光晶格和超导电路等可编程平台，研究多体量子系统的模拟、表征与控制。</p>
       <a class="research-link" href="{{ '/publications/' | relative_url }}">代表作论文</a>
     </div>
   </article>
@@ -78,11 +78,11 @@ hide_title: true
   <article class="research-card">
     <div class="research-card-head">
       <span>06</span>
-      <h3>量子信息理论基础与应用</h3>
+      <h3>量子机器学习理论</h3>
     </div>
     <div class="research-card-body">
       <div class="research-image-placeholder">Image / Schematic</div>
-      <p>理解量子纠缠、计算复杂性以及近期量子设备的信息论极限。</p>
+      <p>研究学习任务中的量子优势，特别是与纠缠、非局域性和上下文性相关的无条件量子优势。</p>
       <a class="research-link" href="{{ '/publications/' | relative_url }}">代表作论文</a>
     </div>
   </article>
@@ -90,11 +90,11 @@ hide_title: true
   <article class="research-card">
     <div class="research-card-head">
       <span>07</span>
-      <h3>量子机器学习理论</h3>
+      <h3>量子信息理论基础与应用</h3>
     </div>
     <div class="research-card-body">
       <div class="research-image-placeholder">Image / Schematic</div>
-      <p>研究学习任务中的量子优势，特别是与纠缠、非局域性和上下文性相关的无条件量子优势。</p>
+      <p>理解量子纠缠、计算复杂性以及近期量子设备的信息论极限。</p>
       <a class="research-link" href="{{ '/publications/' | relative_url }}">代表作论文</a>
     </div>
   </article>
