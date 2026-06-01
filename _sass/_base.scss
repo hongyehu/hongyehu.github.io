@@ -714,6 +714,10 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.member-section-wide {
+  grid-column: 1 / -1;
+}
+
 @media (max-width: 767.98px) {
   .members-grid-two {
     grid-template-columns: 1fr;
