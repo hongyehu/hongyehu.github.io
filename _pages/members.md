@@ -37,6 +37,27 @@ hide_title: true
       </div>
     </div>
   </article>
+
+  <article class="member-card">
+    <div class="member-photo-wrap">
+      <img src="{{ '/assets/img/zzg.png' | relative_url }}" alt="周铮纲" class="member-photo">
+    </div>
+    <div class="member-info">
+      <div class="member-role">Visiting Undergraduate Student</div>
+      <h3>周铮纲</h3>
+      <div class="member-meta">
+        <span>访问本科生</span>
+      </div>
+      <div class="member-section">
+        <h4>个人简介</h4>
+        <p>浙江大学物理系23级本科生。研究兴趣为凝聚态理论与量子信息科学的交叉方向，希望探索如何利用可编程量子平台、量子学习与控制方法研究拓扑和强关联量子多体系统。</p>
+      </div>
+      <div class="member-section">
+        <h4>研究课题</h4>
+        <p>可操纵量子体系-环境相互作用与量子多体物理。</p>
+      </div>
+    </div>
+  </article>
 </div>
 
 <!--
