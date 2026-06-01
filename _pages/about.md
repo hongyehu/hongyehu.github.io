@@ -2,7 +2,7 @@
 layout: about
 title: 主页
 permalink: /
-subtitle: 中科院物理所 · 特聘研究员 · 量子计算 / 量子学习与控制 / 机器学习
+subtitle: 中国科学院物理研究所 · 特聘研究员 · 量子计算 / 量子学习与控制 / 机器学习
 
 profile:
   align: right
