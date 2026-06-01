@@ -239,14 +239,14 @@ ul.task-list input[type="checkbox"] {
 
 .home-iop-logo {
   background: #fff;
-  border: 2px solid color-mix(in srgb, var(--global-theme-color) 22%, transparent);
+  border: 1px solid color-mix(in srgb, var(--global-theme-color) 22%, transparent);
   border-radius: 50%;
-  box-shadow: 0 0.75rem 1.8rem rgba(0, 0, 0, 0.12);
+  box-shadow: 0 0.35rem 0.9rem rgba(0, 0, 0, 0.1);
   flex: 0 0 auto;
-  height: 5.25rem;
+  height: 2.65rem;
   object-fit: contain;
-  padding: 0.25rem;
-  width: 5.25rem;
+  padding: 0.12rem;
+  width: 2.65rem;
 }
 
 .home-section {
@@ -757,8 +757,8 @@ ul.task-list input[type="checkbox"] {
   }
 
   .home-iop-logo {
-    height: 4.25rem;
-    width: 4.25rem;
+    height: 2.35rem;
+    width: 2.35rem;
   }
 
   .members-grid-two {
@@ -772,13 +772,13 @@ ul.task-list input[type="checkbox"] {
   }
 
   .home-iop-logo {
-    height: 3.5rem;
-    width: 3.5rem;
+    height: 2rem;
+    width: 2rem;
   }
 
   .navbar.navbar-light .navbar-iop-logo {
-    height: 1.5rem;
-    width: 1.5rem;
+    height: 1.1rem;
+    width: 1.1rem;
   }
 
   .member-card {
@@ -884,10 +884,10 @@ ul.task-list input[type="checkbox"] {
     border: 1px solid color-mix(in srgb, var(--global-theme-color) 18%, transparent);
     border-radius: 50%;
     box-shadow: 0 0.2rem 0.55rem rgba(0, 0, 0, 0.08);
-    height: 1.75rem;
+    height: 1.2rem;
     object-fit: contain;
-    padding: 0.1rem;
-    width: 1.75rem;
+    padding: 0.05rem;
+    width: 1.2rem;
   }
 
   .navbar-nav .nav-item .nav-link {
