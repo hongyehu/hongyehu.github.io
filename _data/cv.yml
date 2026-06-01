@@ -12,17 +12,17 @@
     - name: 研究方向
       value: 量子计算理论、量子控制与学习理论、量子纠错、机器学习与量子信息
 
-- title: 研究兴趣
-  type: nested_list
-  contents:
-    - title: 量子控制与学习
-      items:
-        - 面向大规模模拟量子系统和容错数字量子系统，研究量子控制、量子学习与可编程量子系统的算法基础。
-        - 关注哈密顿量学习、设备基准测试、量子态学习、AI 辅助量子最优控制等问题。
-    - title: 量子模拟与量子纠错
-      items:
-        - 研究模拟与数字量子模拟、早期容错量子设备的新架构，以及量子纠错码自动设计和高效译码。
-        - 结合量子多体物理、AMO 物理、量子信息理论、量子最优控制和机器学习，推进量子技术能力并理解量子多体系统。
+# - title: 研究兴趣
+#   type: nested_list
+#   contents:
+#     - title: 量子控制与学习
+#       items:
+#         - 面向大规模模拟量子系统和容错数字量子系统，研究量子控制、量子学习与可编程量子系统的算法基础。
+#         - 关注哈密顿量学习、设备基准测试、量子态学习、AI 辅助量子最优控制等问题。
+#     - title: 量子模拟与量子纠错
+#       items:
+#         - 研究模拟与数字量子模拟、早期容错量子设备的新架构，以及量子纠错码自动设计和高效译码。
+#         - 结合量子多体物理、AMO 物理、量子信息理论、量子最优控制和机器学习，推进量子技术能力并理解量子多体系统。
 
 - title: 教育与训练
   type: time_table
@@ -31,7 +31,7 @@
       institution: Harvard University / Harvard-MIT Center for Ultracold Atoms (CUA)
       year: 2022.09 - 2026.05
       description:
-        - 导师：Prof. Susanne F. Yelin (Harvard), Prof. Soonwon Choi (MIT)
+        - 导师：Prof. Susanne F. Yelin (Harvard), Prof. Misha Lukin (Harvard), Prof. Soonwon Choi (MIT)
     - title: 物理学博士
       institution: University of California, San Diego
       year: 2016.09 - 2022.03
@@ -54,12 +54,6 @@
       year: 2021.06 - 2021.10<br>2022.03 - 2022.06
       description:
         - 导师：Dr. Zhihui Wang
-    - title: 研究实习生
-      institution: Salk Institute for Biological Studies, San Diego
-      year: 2016.09 - 2018.03
-      description:
-        - 导师：Prof. Tatyana Sharpee
-        - 方向：视觉与计算神经科学
 
 # - title: 科研经费
 #   type: list
