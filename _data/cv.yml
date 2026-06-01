@@ -68,6 +68,34 @@
 #     - "DARPA IMPAQT 项目 “Analog Quantum Machine Learning on Programmable Quantum Simulators.” Awardee: Prof. Susanne Yelin, Dr. Hong-Ye Hu."
 #     - "DARPA DSO 项目 “Analog Universal Computation: Hybrid Algorithms for Fermionic Systems.” Awardee: Prof. Susanne Yelin, Dr. Henning Schloemer, Dr. Hong-Ye Hu."
 
+- title: 荣誉与奖励
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - 国家海外青年人才项目、中科院百人项目
+    - year: 2022
+      items:
+        - HQI Postdoctoral Fellowship, Harvard University
+    - year: 2021
+      items:
+        - UC President Dissertation Year Fellowship nominee, UCSD Physics Department
+    - year: 2018
+      items:
+        - Chair’s Challenge Award, UCSD Physics Department
+    - year: 2016 - 2017
+      items:
+        - UCSD Physics Excellence Award
+    - year: 2013 - 2016
+      items:
+        - 未名学者，北京大学
+    - year: 2016
+      items:
+        - 北京市优秀毕业生
+    - year: 2013
+      items:
+        - 中国大学生物理学术竞赛金牌，北京大学代表队
+
 - title: 研究亮点
   type: time_table
   contents:
@@ -168,31 +196,6 @@
     - (Invited Talk) Deep Learning and Physics, Yukawa Institute, Kyoto, Japan. Machine Learning Holography. (October 2019)
     - Quantum Connection. Nordita institute for theoretical physics, Sweden. (June 10-22, 2019)
     - Machine Learning & Physics. Microsoft Research. (April 25-26, 2019)
-
-- title: 荣誉与奖励
-  type: time_table
-  contents:
-    - year: 2022
-      items:
-        - HQI Postdoctoral Fellowship, Harvard University
-    - year: 2021
-      items:
-        - UC President Dissertation Year Fellowship nominee, UCSD Physics Department
-    - year: 2018
-      items:
-        - Chair’s Challenge Award, UCSD Physics Department
-    - year: 2016 - 2017
-      items:
-        - UCSD Physics Excellence Award
-    - year: 2013 - 2016
-      items:
-        - 未名学者，北京大学
-    - year: 2016
-      items:
-        - 北京市优秀毕业生
-    - year: 2013
-      items:
-        - 中国大学生物理学术竞赛金牌，北京大学代表队
 
 - title: 专业活动
   type: list
