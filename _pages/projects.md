@@ -87,6 +87,7 @@ hide_title: true
     </div>
   </article>
 
+  <!--
   <article class="research-card">
     <div class="research-card-head">
       <span>07</span>
@@ -98,4 +99,5 @@ hide_title: true
       <a class="research-link" href="{{ '/publications/' | relative_url }}">代表作论文</a>
     </div>
   </article>
+  -->
 </div>

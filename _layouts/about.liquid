@@ -2,21 +2,26 @@
 layout: default
 ---
 <div class="post">
-  <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        <span class="home-site-title">{{ site.title }}</span>
-      {% endif %}
-    </h1>
-    <p class="desc">
-      {{ page.subtitle }}
-      <a href="https://hits.sh/hongyehu.github.io/" rel="noopener noreferrer" class="profile-views-badge" style="margin-left: 0.5rem;">
-        <img src="https://hits.sh/hongyehu.github.io.svg?label=Profile%20views&extraCount=4076&color=0e75b6&style=flat" alt="Profile views" width="126" height="20" loading="eager" style="vertical-align: middle;" />
-      </a>
-    </p>
+  <header class="post-header home-post-header">
+    <div class="home-header-main">
+      <div class="home-header-text">
+        <h1 class="post-title">
+          {% if site.title == 'blank' %}
+            <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+            {{ site.last_name }}
+          {% else %}
+            <span class="home-site-title">{{ site.title }}</span>
+          {% endif %}
+        </h1>
+        <p class="desc">
+          {{ page.subtitle }}
+          <a href="https://hits.sh/hongyehu.github.io/" rel="noopener noreferrer" class="profile-views-badge" style="margin-left: 0.5rem;">
+            <img src="https://hits.sh/hongyehu.github.io.svg?label=Profile%20views&extraCount=4076&color=0e75b6&style=flat" alt="Profile views" width="126" height="20" loading="eager" style="vertical-align: middle;" />
+          </a>
+        </p>
+      </div>
+      <img src="{{ '/assets/img/IOP.png' | relative_url }}" alt="中国科学院物理研究所" class="home-iop-logo">
+    </div>
   </header>
 
   <article>
