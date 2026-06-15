@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-15'
 papers:
   Hqf3jOUAAAAJ:0EnyYjriUFMC:
-    citations: 65
+    citations: 66
     title: Topological and symmetry-enriched random quantum critical points
     year: '2021'
   Hqf3jOUAAAAJ:2P1L_qKh6hAC:
@@ -15,10 +15,10 @@ papers:
     year: '2022'
   Hqf3jOUAAAAJ:3s1wT3WcHBgC:
     citations: 0
-    title: 'Measuring wave superconductivity and beyond: efficient global control on optical lattices'
+    title: 'Measuring d-wave superconductivity and beyond: efficient global control on optical lattices'
     year: '2025'
   Hqf3jOUAAAAJ:4DMP91E08xMC:
-    citations: 32
+    citations: 33
     title: Discovery of Optimal Quantum Error Correcting Codes via Reinforcement Learning
     year: '2025'
   Hqf3jOUAAAAJ:4JMBOYKVnBMC:
@@ -30,7 +30,7 @@ papers:
     title: Ansatz-Free Learning of Lindbladian Dynamics In Situ
     year: '2026'
   Hqf3jOUAAAAJ:5nxA0vEk-isC:
-    citations: 47
+    citations: 48
     title: Neural ordinary differential equation and holographic quantum chromodynamics
     year: '2021'
   Hqf3jOUAAAAJ:8k81kl-MbHgC:
@@ -38,7 +38,7 @@ papers:
     title: Spin Glass and Replica Trick
     year: '2017'
   Hqf3jOUAAAAJ:9ZlFYXVOiuMC:
-    citations: 13
+    citations: 14
     title: Zero and Finite Temperature Quantum Simulations Powered by Quantum Magic
     year: '2024'
   Hqf3jOUAAAAJ:9yKSN-GCB0IC:
@@ -54,11 +54,11 @@ papers:
     title: Entanglement and information scrambling in long-range measurement-only circuits
     year: '2026'
   Hqf3jOUAAAAJ:HDshCWvjkbEC:
-    citations: 23
+    citations: 24
     title: Syncopated Dynamical Decoupling for Suppressing Crosstalk in Quantum Circuits
     year: '2025'
   Hqf3jOUAAAAJ:KlAtU1dfN6UC:
-    citations: 40
+    citations: 41
     title: 'Logical shadow tomography: Efficient estimation of error-mitigated observables'
     year: '2022'
   Hqf3jOUAAAAJ:M05iB0D1s5AC:
@@ -74,11 +74,11 @@ papers:
     title: Predicting Arbitrary State Properties from Single Hamiltonian Quench Dynamics
     year: '2024'
   Hqf3jOUAAAAJ:R3hNpaxXUhUC:
-    citations: 127
+    citations: 128
     title: Low-Overhead Transversal Fault Tolerance for Universal Quantum Computation
     year: '2025'
   Hqf3jOUAAAAJ:RHpTSmoSYBkC:
-    citations: 25
+    citations: 26
     title: Digital-analog quantum learning on rydberg atom arrays
     year: '2024'
   Hqf3jOUAAAAJ:SeFeTyx0c_EC:
@@ -90,7 +90,7 @@ papers:
     title: Spin excitation spectrum in strong disorder spin system using spectrum bifurcation renormalization group
     year: '2020'
   Hqf3jOUAAAAJ:YOwf2qJgpHMC:
-    citations: 99
+    citations: 100
     title: Scalable and Flexible Classical Shadow Tomography with Tensor Networks
     year: '2023'
   Hqf3jOUAAAAJ:YsMSGLbcyi4C:
@@ -114,9 +114,13 @@ papers:
     title: Model-agnostic cooling algorithms for strongly interacting fermions
     year: '2026'
   Hqf3jOUAAAAJ:aqlVkmm33-oC:
-    citations: 162
+    citations: 163
     title: Classical shadow tomography with locally scrambled quantum dynamics
     year: '2023'
+  Hqf3jOUAAAAJ:bFI3QPDXJZMC:
+    citations: 0
+    title: Efficient simulation of strongly correlated fermions with dual-species Rydberg atom arrays
+    year: '2026'
   Hqf3jOUAAAAJ:cFHS6HbyZ2cC:
     citations: 1
     title: Entanglement and information scrambling in long-range measurement-only circuits
@@ -126,13 +130,17 @@ papers:
     title: 'TERRA: Tensor-network Error-mitigated Robust Randomized Algorithm'
     year: '2026'
   Hqf3jOUAAAAJ:e5wmG9Sq2KIC:
-    citations: 77
+    citations: 80
     title: Large-scale quantum reservoir learning with an analog quantum computer
     year: '2024'
   Hqf3jOUAAAAJ:eQOLeE2rZwMC:
     citations: 10
     title: Resonant quantum search with monitor qubits
     year: '2020'
+  Hqf3jOUAAAAJ:f2IySw72cVMC:
+    citations: 0
+    title: Optimized Protocols for Realizing Majorana Zero Modes in Optical Lattices
+    year: Unknown Year
   Hqf3jOUAAAAJ:g5m5HwL7SMYC:
     citations: 9
     title: 'Logical shadow tomography: Efficient estimation of error-mitigated observables,(2022)'
@@ -150,11 +158,11 @@ papers:
     title: Efficient Measurement-Driven Eigenenergy Estimation with Classical Shadows
     year: '2026'
   Hqf3jOUAAAAJ:kNdYIx-mwKoC:
-    citations: 26
+    citations: 27
     title: 'RG-Flow: a hierarchical and explainable flow model based on renormalization group and sparse prior'
     year: '2022'
   Hqf3jOUAAAAJ:mB3voiENLucC:
-    citations: 76
+    citations: 77
     title: Demonstration of Robust and Efficient Quantum Property Learning with Shallow Shadows
     year: '2025'
   Hqf3jOUAAAAJ:mVmsd5A6BfQC:
@@ -165,6 +173,10 @@ papers:
     citations: 5
     title: 'Logical shadow tomography: Efficient estimation of error-mitigated observables. arXiv e-prints, art'
     year: '2022'
+  Hqf3jOUAAAAJ:pyW8ca7W8N0C:
+    citations: 0
+    title: Native, parallel fermionic gates in Rydberg atom arrays using analog control
+    year: '2026'
   Hqf3jOUAAAAJ:rO6llkc54NcC:
     citations: 0
     title: 'Derandomized shallow shadows: Efficient Pauli learning with bounded-depth circuits'
@@ -174,7 +186,7 @@ papers:
     title: Quantum reservoir computing with rydberg atom arrays
     year: '2025'
   Hqf3jOUAAAAJ:vV6vV6tmYwMC:
-    citations: 35
+    citations: 36
     title: Ansatz-Free Hamiltonian Learning with Heisenberg-Limited Scaling
     year: '2025'
   Hqf3jOUAAAAJ:yD5IFk8b50cC:
