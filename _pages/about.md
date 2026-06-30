@@ -16,7 +16,7 @@ social: true  # Includes email, phone, etc.
 
 <section class="home-section home-section-feature">
   <h2>个人简介</h2>
-  <p>我将于2026年暑期作为<strong class="home-theme-text">特聘研究员(Associate Professor)</strong>加入<strong class="home-theme-text">中国科学院物理研究所</strong>，<strong>课题组计划每年招收博士生 1-2 人，长期招收博士后、访问学生与访问学者</strong>。课题组将与<strong>中科院物理所、清华大学、北京大学</strong>进行深度合作，理论结合实验，发展中性原子、超导、NV量子色心等平台的新型量子算法与应用。欢迎各位对学术研究充满热情的有志之士加入、共建量子+AI的未来。</p>
+  <p>我于2026年6月作为<strong class="home-theme-text">特聘研究员(Associate Professor)</strong>引进加入<strong class="home-theme-text">中国科学院物理研究所</strong>，课题组得到国家青年人才项目与中科院百人项目支持，<strong>计划每年招收博士生 1-2 人，长期招收博士后、访问学生与访问学者。</strong>课题组将与<strong>中科院物理所、清华大学、北京大学</strong>进行深度合作，理论结合实验，发展中性原子、超导、NV量子色心等平台的新型量子算法与应用。欢迎各位对学术研究充满热情的有志之士加入、共建量子+AI的未来。</p>
   <p>此前我在 <strong>哈佛量子计划任研究员、HQI Fellow</strong>。研究方向包括 <span class="home-theme-text">量子计算理论、量子控制与学习理论、量子纠错</span>。我与多个量子实验平台的实验团队密切合作，包括中性原子镊阵列、光晶格和超导量子比特，以第一作者身份设计了多种新型量子信息处理方案，并被多种量子实验平台采用，包括：</p>
   <ol class="home-numbered-list">
     <li><span class="home-theme-text">浅层量子随机测量技术</span>：被 IBM 实验采用，参加 <a href="https://phys.org/news/2025-04-shallow-shadows-uncover-quantum-properties.html" target="_blank" rel="noopener noreferrer">Phys.org 新闻报道</a>。</li>
