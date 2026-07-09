@@ -60,6 +60,44 @@ hide_title: true
       </div>
     </div>
   </article>
+
+  <article class="member-card">
+    <div class="member-photo-wrap">
+      <img src="{{ '/assets/img/tyy.jpg' | relative_url }}" alt="汤炀阳" class="member-photo">
+    </div>
+    <div class="member-info">
+      <div class="member-role">Visiting Student</div>
+      <h3>汤炀阳</h3>
+      <div class="member-meta">
+        <span>访问学生</span>
+      </div>
+    </div>
+    <div class="member-section-stack" style="grid-column: 1 / -1;">
+      <div class="member-section">
+        <h4>个人简介</h4>
+        <p>清华大学高等研究院博士生。研究方向为量子计算架构、量子纠错码、纠缠探测与测量、量子多体系统的纠缠。</p>
+      </div>
+    </div>
+  </article>
+
+  <article class="member-card">
+    <div class="member-photo-wrap">
+      <img src="{{ '/assets/img/yyq.jpg' | relative_url }}" alt="俞逸琪" class="member-photo">
+    </div>
+    <div class="member-info">
+      <div class="member-role">Visiting Student</div>
+      <h3>俞逸琪</h3>
+      <div class="member-meta">
+        <span>访问学生</span>
+      </div>
+    </div>
+    <div class="member-section-stack" style="grid-column: 1 / -1;">
+      <div class="member-section">
+        <h4>个人简介</h4>
+        <p>清华大学高等研究院博士生。研究兴趣为量子算法、量子纠错以及中性原子平台的架构与实现。</p>
+      </div>
+    </div>
+  </article>
 </div>
 
 <!--
