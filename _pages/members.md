@@ -63,7 +63,7 @@ hide_title: true
 
   <article class="member-card">
     <div class="member-photo-wrap">
-      <img src="{{ '/assets/img/tyy.jpg' | relative_url }}" alt="汤炀阳" class="member-photo" style="object-position: center top;">
+      <img src="{{ '/assets/img/tyy.jpg' | relative_url }}" alt="汤炀阳" class="member-photo" style="object-position: center 40%;">
     </div>
     <div class="member-info">
       <div class="member-role">Visiting Student</div>
