@@ -66,7 +66,7 @@ hide_title: true
       <img src="{{ '/assets/img/tyy.jpg' | relative_url }}" alt="汤炀阳" class="member-photo" style="object-position: center 40%;">
     </div>
     <div class="member-info">
-      <div class="member-role">Visiting Student</div>
+      <div class="member-role">Visiting PhD Student</div>
       <h3>汤炀阳</h3>
       <div class="member-meta">
         <span>访问学生</span>
@@ -89,7 +89,7 @@ hide_title: true
       <img src="{{ '/assets/img/yyq.jpg' | relative_url }}" alt="俞逸琪" class="member-photo">
     </div>
     <div class="member-info">
-      <div class="member-role">Visiting Student</div>
+      <div class="member-role">Visiting PhD Student</div>
       <h3>俞逸琪</h3>
       <div class="member-meta">
         <span>访问学生</span>
