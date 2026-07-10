@@ -77,6 +77,10 @@ hide_title: true
         <h4>个人简介</h4>
         <p>清华大学高等研究院博士生。研究方向为量子计算架构、量子纠错码、纠缠探测与测量、量子多体系统的纠缠。</p>
       </div>
+      <div class="member-section">
+        <h4>研究课题</h4>
+        <p>量子纠错与学习理论，量子资源估计。</p>
+      </div>
     </div>
   </article>
 
@@ -95,6 +99,10 @@ hide_title: true
       <div class="member-section">
         <h4>个人简介</h4>
         <p>清华大学高等研究院博士生。研究兴趣为量子算法、量子纠错以及中性原子平台的架构与实现。</p>
+      </div>
+      <div class="member-section">
+        <h4>研究课题</h4>
+        <p>量子纠错与学习理论，量子资源估计。</p>
       </div>
     </div>
   </article>
