@@ -129,6 +129,29 @@ hide_title: true
       </div>
     </div>
   </article>
+
+  <article class="member-card">
+    <div class="member-photo-wrap">
+      <img src="{{ '/assets/img/binzhao.jpg' | relative_url }}" alt="罗彬钊" class="member-photo" style="object-position: center 22%;">
+    </div>
+    <div class="member-info">
+      <div class="member-role">PhD Student</div>
+      <h3>罗彬钊</h3>
+      <div class="member-meta">
+        <span>博士研究生</span>
+      </div>
+    </div>
+    <div class="member-section-stack" style="grid-column: 1 / -1;">
+      <div class="member-section">
+        <h4>个人简介</h4>
+        <p>山东大学前沿交叉科学青岛研究院本科(2021-2025)，中国科学院物理研究所2025级博士研究生。研究兴趣为 AI for Quantum。</p>
+      </div>
+      <div class="member-section">
+        <h4>研究课题</h4>
+        <p>ML for QEC，AI for Quantum。</p>
+      </div>
+    </div>
+  </article>
 </div>
 
 <!--
