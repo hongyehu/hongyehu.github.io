@@ -63,6 +63,52 @@ hide_title: true
 
   <article class="member-card">
     <div class="member-photo-wrap">
+      <img src="{{ '/assets/img/binzhao.jpg' | relative_url }}" alt="罗彬钊" class="member-photo" style="object-position: center 22%;">
+    </div>
+    <div class="member-info">
+      <div class="member-role">PhD Student</div>
+      <h3>罗彬钊</h3>
+      <div class="member-meta">
+        <span>博士研究生</span>
+      </div>
+    </div>
+    <div class="member-section-stack" style="grid-column: 1 / -1;">
+      <div class="member-section">
+        <h4>个人简介</h4>
+        <p>山东大学前沿交叉科学青岛研究院本科(2021-2025)，中国科学院物理研究所2025级博士研究生。研究兴趣为 AI for Quantum。</p>
+      </div>
+      <div class="member-section">
+        <h4>研究课题</h4>
+        <p>ML for QEC，AI for Quantum。</p>
+      </div>
+    </div>
+  </article>
+
+  <article class="member-card">
+    <div class="member-photo-wrap">
+      <img src="{{ '/assets/img/wyq.jpg' | relative_url }}" alt="王誉淇" class="member-photo">
+    </div>
+    <div class="member-info">
+      <div class="member-role">PhD Student</div>
+      <h3>王誉淇</h3>
+      <div class="member-meta">
+        <span>博士研究生</span>
+      </div>
+    </div>
+    <div class="member-section-stack" style="grid-column: 1 / -1;">
+      <div class="member-section">
+        <h4>个人简介</h4>
+        <p>北京大学物理学院本科(2023-2027)，预计2027年加入中国科学院物理研究所攻读博士研究生。本科期间在赵宏政教授课题组（北京大学）研究开放量子伊辛模型间歇混沌相关的现象。研究兴趣包括量子多体系统的动力学与量子信息等各种有趣现象。</p>
+      </div>
+      <div class="member-section">
+        <h4>研究课题</h4>
+        <p>量子动力学，量子信息，统计学习理论。</p>
+      </div>
+    </div>
+  </article>
+
+  <article class="member-card">
+    <div class="member-photo-wrap">
       <img src="{{ '/assets/img/tyy.jpg' | relative_url }}" alt="汤炀阳" class="member-photo" style="object-position: center 40%;">
     </div>
     <div class="member-info">
@@ -103,52 +149,6 @@ hide_title: true
       <div class="member-section">
         <h4>研究课题</h4>
         <p>量子纠错与学习理论，量子资源估计。</p>
-      </div>
-    </div>
-  </article>
-
-  <article class="member-card">
-    <div class="member-photo-wrap">
-      <img src="{{ '/assets/img/wyq.jpg' | relative_url }}" alt="王誉淇" class="member-photo">
-    </div>
-    <div class="member-info">
-      <div class="member-role">PhD Student</div>
-      <h3>王誉淇</h3>
-      <div class="member-meta">
-        <span>博士研究生</span>
-      </div>
-    </div>
-    <div class="member-section-stack" style="grid-column: 1 / -1;">
-      <div class="member-section">
-        <h4>个人简介</h4>
-        <p>北京大学物理学院本科(2023-2027)，预计2027年加入中国科学院物理研究所攻读博士研究生。本科期间在赵宏政教授课题组（北京大学）研究开放量子伊辛模型间歇混沌相关的现象。研究兴趣包括量子多体系统的动力学与量子信息等各种有趣现象。</p>
-      </div>
-      <div class="member-section">
-        <h4>研究课题</h4>
-        <p>量子动力学，量子信息，统计学习理论。</p>
-      </div>
-    </div>
-  </article>
-
-  <article class="member-card">
-    <div class="member-photo-wrap">
-      <img src="{{ '/assets/img/binzhao.jpg' | relative_url }}" alt="罗彬钊" class="member-photo" style="object-position: center 22%;">
-    </div>
-    <div class="member-info">
-      <div class="member-role">PhD Student</div>
-      <h3>罗彬钊</h3>
-      <div class="member-meta">
-        <span>博士研究生</span>
-      </div>
-    </div>
-    <div class="member-section-stack" style="grid-column: 1 / -1;">
-      <div class="member-section">
-        <h4>个人简介</h4>
-        <p>山东大学前沿交叉科学青岛研究院本科(2021-2025)，中国科学院物理研究所2025级博士研究生。研究兴趣为 AI for Quantum。</p>
-      </div>
-      <div class="member-section">
-        <h4>研究课题</h4>
-        <p>ML for QEC，AI for Quantum。</p>
       </div>
     </div>
   </article>
