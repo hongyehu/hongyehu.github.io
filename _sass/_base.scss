@@ -388,20 +388,24 @@ ul.task-list input[type="checkbox"] {
 }
 
 .home-news-ticker {
-  --home-news-height: 9.5rem;
-  height: var(--home-news-height);
   overflow: hidden;
   position: relative;
-  -webkit-mask-image: linear-gradient(to bottom, transparent, #000 12%, #000 88%, transparent);
-  mask-image: linear-gradient(to bottom, transparent, #000 12%, #000 88%, transparent);
 
-  &:hover .home-news-track {
+  &.is-scrolling {
+    -webkit-mask-image: linear-gradient(to bottom, transparent, #000 10%, #000 90%, transparent);
+    mask-image: linear-gradient(to bottom, transparent, #000 10%, #000 90%, transparent);
+  }
+
+  &.is-scrolling .home-news-track {
+    animation: home-news-scroll var(--home-news-duration, 22s) linear infinite;
+  }
+
+  &.is-scrolling:hover .home-news-track {
     animation-play-state: paused;
   }
 }
 
 .home-news-track {
-  animation: home-news-scroll 22s linear infinite;
   margin-bottom: 0;
 
   li {

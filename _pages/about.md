@@ -51,14 +51,62 @@ social: true  # Includes email, phone, etc.
 
 <script>
   (function () {
-    document.querySelectorAll('[data-news-ticker]').forEach(function (ticker) {
+    var MAX_VISIBLE = 5;
+    var SECONDS_PER_ITEM = 3.2;
+
+    function measureHeight(track, count) {
+      var visible = Math.min(count, MAX_VISIBLE);
+      var height = 0;
+      for (var i = 0; i < visible; i++) {
+        var el = track.children[i];
+        if (!el) break;
+        var style = window.getComputedStyle(el);
+        height += el.getBoundingClientRect().height;
+        if (i < visible - 1) height += parseFloat(style.marginBottom) || 0;
+      }
+      return height;
+    }
+
+    function setup(ticker) {
       var track = ticker.querySelector('.home-news-track');
-      if (!track || track.dataset.cloned === 'true') return;
-      var items = Array.prototype.slice.call(track.children);
-      items.forEach(function (item) {
-        track.appendChild(item.cloneNode(true));
-      });
-      track.dataset.cloned = 'true';
+      if (!track) return;
+
+      var originalCount = parseInt(track.dataset.count || '', 10);
+      if (!originalCount) {
+        originalCount = track.children.length;
+        track.dataset.count = originalCount;
+      }
+
+      ticker.style.height = measureHeight(track, originalCount) + 'px';
+
+      if (originalCount > MAX_VISIBLE) {
+        if (track.dataset.cloned !== 'true') {
+          var items = Array.prototype.slice.call(track.children);
+          items.forEach(function (item) {
+            track.appendChild(item.cloneNode(true));
+          });
+          track.dataset.cloned = 'true';
+        }
+        ticker.style.setProperty('--home-news-duration', originalCount * SECONDS_PER_ITEM + 's');
+        ticker.classList.add('is-scrolling');
+      }
+    }
+
+    function init() {
+      document.querySelectorAll('[data-news-ticker]').forEach(setup);
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
+    window.addEventListener('load', init);
+
+    var resizeTimer;
+    window.addEventListener('resize', function () {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(init, 150);
     });
   })();
 </script>
