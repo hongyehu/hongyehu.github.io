@@ -36,6 +36,34 @@ social: true  # Includes email, phone, etc.
 </section>
 
 <section class="home-section">
+  <h2>组内新闻</h2>
+  <div class="home-news-ticker" data-news-ticker>
+    <ul class="home-bullet-list home-news-track">
+      <li><span class="home-news-date">测试</span>new1</li>
+      <li><span class="home-news-date">测试</span>new2</li>
+      <li><span class="home-news-date">测试</span>new3</li>
+      <li><span class="home-news-date">测试</span>new4</li>
+      <li><span class="home-news-date">测试</span>new5</li>
+      <li><span class="home-news-date">测试</span>new6</li>
+    </ul>
+  </div>
+</section>
+
+<script>
+  (function () {
+    document.querySelectorAll('[data-news-ticker]').forEach(function (ticker) {
+      var track = ticker.querySelector('.home-news-track');
+      if (!track || track.dataset.cloned === 'true') return;
+      var items = Array.prototype.slice.call(track.children);
+      items.forEach(function (item) {
+        track.appendChild(item.cloneNode(true));
+      });
+      track.dataset.cloned = 'true';
+    });
+  })();
+</script>
+
+<section class="home-section">
   <h2>工作经历</h2>
   <ul class="home-bullet-list home-experience-list">
     <li>
