@@ -39,7 +39,8 @@ social: true  # Includes email, phone, etc.
   <h2>组内新闻</h2>
   <div class="home-news-ticker" data-news-ticker>
     <ul class="home-bullet-list home-news-track">
-      <li><span class="home-news-date">2026.7.19</span>扈鸿业在“世界人工智能大会暨人工智能全球治理高级别会议”进行以“当人工智能遇到量子物理：一个AI时代的量子探索者”为题的演讲。</li>
+      <li><span class="home-news-date">2026.7.30</span>组内论文“Universal Dynamics with Globally Controlled Analog Quantum Simulators”被 Nature Physics 原则性接收。</li>
+      <li><span class="home-news-date">2026.7.19</span>扈鸿业在“世界人工智能大会WAIC 2026”进行以“当人工智能遇到量子物理：一个AI时代的量子探索者”为题的演讲。</li>
       <li><span class="home-news-date">2026.7.8</span>课题组与哈佛大学合作发表近似量子纠错码新工作：“Covariant Approximate Quantum Codes for Protected Analog Computation”。</li>
       <li><span class="home-news-date">2026.7.1</span>组内“Universal Dynamics with Globally Controlled Analog Quantum Simulators”文章入选亚洲量子信息会议 AQIS 长报告。</li>
       <li><span class="home-news-date">2026.6.17</span>扈鸿业课题组成立，欢迎周铮纲、罗彬钊、王誉淇、汤炀阳、俞逸琪同学加入课题组，共建 AI+Quantum 的未来。</li>
