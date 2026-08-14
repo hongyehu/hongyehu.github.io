@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-14'
 papers:
   Hqf3jOUAAAAJ:0EnyYjriUFMC:
     citations: 69
@@ -26,7 +26,7 @@ papers:
     title: Circumventing Traps in Analog Quantum Machine Learning Algorithms Through Co-Design
     year: '2024'
   Hqf3jOUAAAAJ:4OULZ7Gr8RgC:
-    citations: 6
+    citations: 7
     title: Ansatz-Free Learning of Lindbladian Dynamics In Situ
     year: '2026'
   Hqf3jOUAAAAJ:5nxA0vEk-isC:
@@ -46,7 +46,7 @@ papers:
     title: Optimizing quantum adiabatic algorithm
     year: '2016'
   Hqf3jOUAAAAJ:BqipwSGYUEgC:
-    citations: 19
+    citations: 20
     title: Efficiently Measuring d-Wave Pairing and Beyond in Quantum Gas Microscopes
     year: '2025'
   Hqf3jOUAAAAJ:D03iK_w7-QYC:
@@ -54,7 +54,7 @@ papers:
     title: Entanglement and information scrambling in long-range measurement-only circuits
     year: '2026'
   Hqf3jOUAAAAJ:EUQCXRtRnyEC:
-    citations: 1
+    citations: 3
     title: Fast and Parallel High-Rate STAR Architecture for Megaquop Quantum Simulation
     year: '2026'
   Hqf3jOUAAAAJ:HDshCWvjkbEC:
@@ -69,6 +69,10 @@ papers:
     citations: 7
     title: Demonstration of robust and efficient quantum property learning with shallow shadows (2024)
     year: Unknown Year
+  Hqf3jOUAAAAJ:NhqRSupF_l8C:
+    citations: 0
+    title: Provably Efficient Self-Calibrating Quantum Fault Tolerance
+    year: '2026'
   Hqf3jOUAAAAJ:O3NaXMp0MMsC:
     citations: 4
     title: 'Derandomized shallow shadows: Efficient Pauli learning with bounded-depth circuits'
@@ -78,7 +82,7 @@ papers:
     title: Predicting Arbitrary State Properties from Single Hamiltonian Quench Dynamics
     year: '2024'
   Hqf3jOUAAAAJ:R3hNpaxXUhUC:
-    citations: 141
+    citations: 148
     title: Low-Overhead Transversal Fault Tolerance for Universal Quantum Computation
     year: '2025'
   Hqf3jOUAAAAJ:RHpTSmoSYBkC:
@@ -90,7 +94,7 @@ papers:
     title: Spin excitation spectrum in strong disorder spin system using spectrum bifurcation renormalization group
     year: '2020'
   Hqf3jOUAAAAJ:YOwf2qJgpHMC:
-    citations: 101
+    citations: 102
     title: Scalable and Flexible Classical Shadow Tomography with Tensor Networks
     year: '2023'
   Hqf3jOUAAAAJ:YsMSGLbcyi4C:
@@ -106,7 +110,7 @@ papers:
     title: Efficient representation and learning of quantum many-body states
     year: '2022'
   Hqf3jOUAAAAJ:_kc_bZDykSQC:
-    citations: 57
+    citations: 58
     title: Interpretable Quantum Advantage in Neural Sequence Learning
     year: '2023'
   Hqf3jOUAAAAJ:_xSYboBqXhAC:
@@ -118,7 +122,7 @@ papers:
     title: Model-agnostic cooling algorithms for strongly interacting fermions
     year: '2026'
   Hqf3jOUAAAAJ:abG-DnoFyZgC:
-    citations: 17
+    citations: 18
     title: Universal dynamics with globally controlled analog quantum simulators (2025)
     year: '2025'
   Hqf3jOUAAAAJ:aqlVkmm33-oC:
@@ -174,11 +178,11 @@ papers:
     title: 'RG-Flow: a hierarchical and explainable flow model based on renormalization group and sparse prior'
     year: '2022'
   Hqf3jOUAAAAJ:mB3voiENLucC:
-    citations: 78
+    citations: 79
     title: Demonstration of Robust and Efficient Quantum Property Learning with Shallow Shadows
     year: '2025'
   Hqf3jOUAAAAJ:mVmsd5A6BfQC:
-    citations: 25
+    citations: 26
     title: Measurement-Induced Criticality is Tomographically Optimal
     year: '2024'
   Hqf3jOUAAAAJ:pqnbT2bcN3wC:
@@ -201,6 +205,10 @@ papers:
     citations: 46
     title: Ansatz-Free Hamiltonian Learning with Heisenberg-Limited Scaling
     year: '2025'
+  Hqf3jOUAAAAJ:xtRiw3GOFMkC:
+    citations: 0
+    title: Generative Learning for Quantum Measurement Design
+    year: '2026'
   Hqf3jOUAAAAJ:yD5IFk8b50cC:
     citations: 0
     title: Opportunities and challenges in scaling quantum error detection on hardware
