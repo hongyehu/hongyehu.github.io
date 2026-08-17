@@ -152,6 +152,52 @@ hide_title: true
       </div>
     </div>
   </article>
+
+  <article class="member-card">
+    <div class="member-photo-wrap">
+      <img src="{{ '/assets/img/chen.jpg' | relative_url }}" alt="陈牧楚" class="member-photo">
+    </div>
+    <div class="member-info">
+      <div class="member-role">Visiting PhD Student</div>
+      <h3>陈牧楚</h3>
+      <div class="member-meta">
+        <span>访问博士生</span>
+      </div>
+    </div>
+    <div class="member-section-stack" style="grid-column: 1 / -1;">
+      <div class="member-section">
+        <h4>个人简介</h4>
+        <p>清华大学物理系博士生。研究兴趣为量子学习理论，量子算法。</p>
+      </div>
+      <div class="member-section">
+        <h4>研究课题</h4>
+        <p>量子学习理论。</p>
+      </div>
+    </div>
+  </article>
+
+  <article class="member-card">
+    <div class="member-photo-wrap">
+      <img src="{{ '/assets/img/lin.jpg' | relative_url }}" alt="林倚信" class="member-photo">
+    </div>
+    <div class="member-info">
+      <div class="member-role">Visiting Master's Student</div>
+      <h3>林倚信</h3>
+      <div class="member-meta">
+        <span>访问学生</span>
+      </div>
+    </div>
+    <div class="member-section-stack" style="grid-column: 1 / -1;">
+      <div class="member-section">
+        <h4>个人简介</h4>
+        <p>上海交通大学硕士生。Yi-Hsin is interested in quantum information theory, especially quantum and classical methods for learning complex quantum systems.</p>
+      </div>
+      <div class="member-section">
+        <h4>研究课题</h4>
+        <p>量子学习理论与量子传感。</p>
+      </div>
+    </div>
+  </article>
 </div>
 
 <!--
