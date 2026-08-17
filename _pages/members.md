@@ -203,26 +203,27 @@ hide_title: true
 <!--
 添加新成员时，可以复制下面的结构：
 
+照片请裁成正方形（头像为圆形显示），建议 800x800 左右。
+
 <article class="member-card">
   <div class="member-photo-wrap">
     <img src="{{ '/assets/img/member-photo.jpg' | relative_url }}" alt="成员姓名" class="member-photo">
   </div>
   <div class="member-info">
-    <div class="member-role">博士生 / 访问学生 / 博士后</div>
+    <div class="member-role">PhD Student / Visiting PhD Student / Postdoc</div>
     <h3>成员姓名</h3>
+    <div class="member-meta">
+      <span>博士研究生 / 访问学生 / 博士后</span>
+    </div>
+  </div>
+  <div class="member-section-stack" style="grid-column: 1 / -1;">
     <div class="member-section">
-      <h4>研究方向</h4>
-      <div class="member-tags">
-        <span>量子控制</span>
-        <span>机器学习</span>
-      </div>
+      <h4>个人简介</h4>
+      <p>学校院系与年级，研究兴趣。</p>
     </div>
     <div class="member-section">
-      <h4>业余兴趣</h4>
-      <div class="member-tags">
-        <span>音乐</span>
-        <span>登山</span>
-      </div>
+      <h4>研究课题</h4>
+      <p>课题方向。</p>
     </div>
   </div>
 </article>
