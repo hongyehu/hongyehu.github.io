@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-21'
 papers:
   Hqf3jOUAAAAJ:0EnyYjriUFMC:
     citations: 70
@@ -62,7 +62,7 @@ papers:
     title: Syncopated Dynamical Decoupling for Suppressing Crosstalk in Quantum Circuits
     year: '2025'
   Hqf3jOUAAAAJ:KlAtU1dfN6UC:
-    citations: 49
+    citations: 50
     title: 'Logical shadow tomography: Efficient estimation of error-mitigated observables'
     year: '2022'
   Hqf3jOUAAAAJ:M05iB0D1s5AC:
@@ -146,7 +146,7 @@ papers:
     title: 'TERRA: Tensor-network Error-mitigated Robust Randomized Algorithm'
     year: '2026'
   Hqf3jOUAAAAJ:e5wmG9Sq2KIC:
-    citations: 86
+    citations: 87
     title: Large-scale quantum reservoir learning with an analog quantum computer
     year: '2024'
   Hqf3jOUAAAAJ:eQOLeE2rZwMC:
