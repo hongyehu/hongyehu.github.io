@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-26'
 papers:
   Hqf3jOUAAAAJ:0EnyYjriUFMC:
     citations: 70
@@ -46,7 +46,7 @@ papers:
     title: Optimizing quantum adiabatic algorithm
     year: '2016'
   Hqf3jOUAAAAJ:BqipwSGYUEgC:
-    citations: 21
+    citations: 22
     title: Efficiently Measuring d-Wave Pairing and Beyond in Quantum Gas Microscopes
     year: '2025'
   Hqf3jOUAAAAJ:D03iK_w7-QYC:
@@ -54,7 +54,7 @@ papers:
     title: Entanglement and information scrambling in long-range measurement-only circuits
     year: '2026'
   Hqf3jOUAAAAJ:EUQCXRtRnyEC:
-    citations: 3
+    citations: 4
     title: Fast and Parallel High-Rate STAR Architecture for Megaquop Quantum Simulation
     year: '2026'
   Hqf3jOUAAAAJ:HDshCWvjkbEC:
@@ -82,7 +82,7 @@ papers:
     title: Predicting Arbitrary State Properties from Single Hamiltonian Quench Dynamics
     year: '2024'
   Hqf3jOUAAAAJ:R3hNpaxXUhUC:
-    citations: 150
+    citations: 151
     title: Low-Overhead Transversal Fault Tolerance for Universal Quantum Computation
     year: '2025'
   Hqf3jOUAAAAJ:RHpTSmoSYBkC:
@@ -126,7 +126,7 @@ papers:
     title: Universal dynamics with globally controlled analog quantum simulators (2025)
     year: '2025'
   Hqf3jOUAAAAJ:aqlVkmm33-oC:
-    citations: 171
+    citations: 173
     title: Classical shadow tomography with locally scrambled quantum dynamics
     year: '2023'
   Hqf3jOUAAAAJ:b0M2c_1WBrUC:
@@ -146,11 +146,11 @@ papers:
     title: 'TERRA: Tensor-network Error-mitigated Robust Randomized Algorithm'
     year: '2026'
   Hqf3jOUAAAAJ:e5wmG9Sq2KIC:
-    citations: 87
+    citations: 88
     title: Large-scale quantum reservoir learning with an analog quantum computer
     year: '2024'
   Hqf3jOUAAAAJ:eQOLeE2rZwMC:
-    citations: 9
+    citations: 10
     title: Resonant quantum search with monitor qubits
     year: '2020'
   Hqf3jOUAAAAJ:f2IySw72cVMC:
@@ -162,7 +162,7 @@ papers:
     title: 'Logical shadow tomography: Efficient estimation of error-mitigated observables,(2022)'
     year: Unknown Year
   Hqf3jOUAAAAJ:hFOr9nPyWt4C:
-    citations: 33
+    citations: 34
     title: High-order time-reversal symmetry breaking normal state
     year: '2024'
   Hqf3jOUAAAAJ:hqOjcs7Dif8C:
@@ -178,7 +178,7 @@ papers:
     title: 'RG-Flow: a hierarchical and explainable flow model based on renormalization group and sparse prior'
     year: '2022'
   Hqf3jOUAAAAJ:mB3voiENLucC:
-    citations: 80
+    citations: 82
     title: Demonstration of Robust and Efficient Quantum Property Learning with Shallow Shadows
     year: '2025'
   Hqf3jOUAAAAJ:mVmsd5A6BfQC:
@@ -202,7 +202,7 @@ papers:
     title: Quantum reservoir computing with rydberg atom arrays
     year: '2025'
   Hqf3jOUAAAAJ:vV6vV6tmYwMC:
-    citations: 47
+    citations: 48
     title: Ansatz-Free Hamiltonian Learning with Heisenberg-Limited Scaling
     year: '2025'
   Hqf3jOUAAAAJ:xtRiw3GOFMkC:
